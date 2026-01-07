@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="../jQuery/_js/jquery-3.7.1.js"></script>
+  <title>美食圖鑑</title>
+  <style>
+    /* 網頁背景 */
+    html,
+    body {
+      margin: 0;
+      background: url('./圖片檔案區/背景.png');
+      color: #eaf0ff;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans TC", sans-serif
+    }
+
+    h1 {
+      margin: 16px 0;
+      text-align: center
+    }
+
+    /* 工具列 */
+    .bar {
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      margin: 0 12px 12px
+    }
+
+    .ipt {
+      padding: 9px 10px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      background: #0e1634;
+      color: #eaf0ff;
+      outline: none;
+      min-width: 260px
+    }
+
+    .btn {
+      padding: 9px 12px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      background: #2a6aff;
+      color: #fff;
+      cursor: pointer
+    }
+
+    .btn.ghost {
+      background: #0e1634;
+      color: #cfe2ff
+    }
+
+    /* 卡片牆：一列 4 張 */
+    #deck {
+      max-width: 1100px;
+      margin: 0 auto 24px;
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      padding: 0 12px
+    }
+
+    /* 卡片 */
+    .card {
+      position: relative;
+      background: #161433;
+      border-radius: 16px;
+      box-shadow: 0 12px 28px rgba(0, 0, 0, .35), 0 0 0 1px rgba(124, 196, 255, .14) inset;
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px
+    }
+
+    .card * {
+      box-sizing: border-box
+    }
+
+    /* 防止內部溢出 */
+
+    .x {
+      position: absolute;
+      right: 8px;
+      top: 8px;
+      width: 26px;
+      height: 26px;
+      display: grid;
+      place-items: center;
+      border-radius: 10px;
+      border: 1px solid #3a4474;
+      background: #2b2f52;
+      color: #ffd6e4;
+      cursor: pointer
+    }
+
+    /* 齒輪按鈕 */
+    .gear {
+      position: absolute;
+      right: 40px;
+      top: 8px;
+      width: 26px;
+      height: 26px;
+      display: grid;
+      place-items: center;
+      border-radius: 10px;
+      border: 1px solid #3a4474;
+      background: #2b2f52;
+      color: #cfe2ff;
+      cursor: pointer
+    }
+
+    .title {
+      font-weight: 800
+    }
+
+    .meta {
+      font-size: 13px;
+      color: #bcd5ff
+    }
+
+    .card input {
+      width: 100%;
+      padding: 9px 10px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      background: #0e1634;
+      color: #eaf0ff;
+      outline: none
+    }
+
+    .card .ipt {
+      min-width: 0
+    }
+
+    /* 讓輸入在 flex 內可縮 */
+
+    .card-row {
+      display: flex;
+      gap: 8px;
+      align-items: center
+    }
+
+    .btnsm {
+      flex: 1 1 auto;
+      text-align: center;
+      padding: 9px 10px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      background: #0e1634;
+      color: #cfe2ff;
+      cursor: pointer;
+      text-decoration: none
+    }
+
+    .icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      display: grid;
+      place-items: center;
+      cursor: pointer;
+      flex: 0 0 auto
+    }
+
+    .sel {
+      background: #16223f;
+      color: #bde3ff
+    }
+
+    .sel.active {
+      background: #193256;
+      color: #fff;
+      border-color: #5cbcff
+    }
+
+    .tags {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap
+    }
+
+    .chip {
+      font-size: 12px;
+      color: #cfe2ff;
+      border: 1px solid #31406e;
+      border-radius: 999px;
+      padding: 3px 8px
+    }
+
+    /* 編輯模式欄位列 + 動作列 */
+    .edit-row {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      gap: 8px;
+      align-items: center
+    }
+
+    .edit-actions {
+      display: flex;
+      gap: 8px;
+      justify-content: flex-end;
+      margin-top: 6px
+    }
+
+    .btnline {
+      padding: 8px 10px;
+      border-radius: 12px;
+      border: 1px solid #31406e;
+      background: #0e1634;
+      color: #cfe2ff;
+      cursor: pointer
+    }
+
+    /* 抽到的高亮 */
+    @keyframes pulse {
+      0% {
+        box-shadow: 0 0 0 0 rgba(124, 196, 255, .9)
+      }
+
+      100% {
+        box-shadow: 0 0 0 14px rgba(124, 196, 255, 0)
+      }
+    }
+
+    .hi {
+      outline: 2px solid #67b7ff;
+      animation: pulse .8s ease-out 2
+    }
+
+    /* 彈出視窗（新增） */
+    dialog {
+      border: none;
+      border-radius: 16px;
+      padding: 0;
+      max-width: 520px;
+      width: 92%;
+      background: #0f1533;
+      color: #eaf0ff;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, .5)
+    }
+
+    .dlg-hd {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 14px 16px;
+      border-bottom: 1px solid #223
+    }
+
+    .dlg-bd {
+      padding: 14px 16px;
+      display: grid;
+      gap: 10px
+    }
+
+    .dlg-row {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      gap: 10px;
+      align-items: center
+    }
+
+    .dlg-row input {
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid #2a345f;
+      background: #121735;
+      color: #fff
+    }
+
+    .dlg-ft {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      padding: 12px 16px;
+      border-top: 1px solid #223
+    }
+
+    @media (max-width:960px) {
+      #deck {
+        grid-template-columns: repeat(2, 1fr)
+      }
+    }
+
+    @media (max-width:520px) {
+      #deck {
+        grid-template-columns: repeat(1, 1fr)
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>美食圖鑑</h1>
+
+  <div class="bar">
+    <button class="btn" id="btnNew">新增圖鑑</button>
+    <input id="q" class="ipt" placeholder="搜尋：店名 / 類型 / 地區 / #特色">
+    <button class="btn ghost" id="btnDraw">隨機抽卡（從已選取）</button>
+    <button class="btn ghost" id="btnGetData">載入全台圖鑑</button>
+  </div>
+
+  <div id="deck"></div>
+
+  <!-- 新增卡片（彈出） -->
+  <dialog id="dlg">
+    <div class="dlg-hd">
+      <b>新增圖鑑</b>
+      <button class="btn ghost" id="dlgX">×</button>
+    </div>
+    <div class="dlg-bd">
+      <div class="dlg-row"><label>餐廳名稱</label><input id="fName" placeholder="例：永康牛肉麵"></div>
+      <div class="dlg-row"><label>餐點類型</label><input id="fType" placeholder="例：牛肉麵 / 咖哩飯"></div>
+      <div class="dlg-row"><label>單人均價</label><input id="fPrice" type="number" min="0" step="10" placeholder="例：220">
+      </div>
+      <div class="dlg-row"><label>#特色</label><input id="fTags" placeholder="逗號：深夜,辣,排隊"></div>
+      <div class="dlg-row"><label>地區</label><input id="fDist" placeholder="例：台北 大安區"></div>
+    </div>
+    <div class="dlg-ft">
+      <button class="btn ghost" id="dlgCancel">取消</button>
+      <button class="btn" id="dlgOk">新增</button>
+    </div>
+  </dialog>
+
+  <script>
+    /* ===== 三核心 ===== */
+    const KEY = 'food_cards_v1';
+    const load = () => JSON.parse(localStorage.getItem(KEY) || '[]');
+    const save = (arr) => localStorage.setItem(KEY, JSON.stringify(arr));
+
+    function render() {
+      const deck = document.getElementById('deck');
+      const k = (document.getElementById('q').value || '').trim().toLowerCase();
+      let data = load();
+      if (k) {
+        data = data.filter(x => [
+          x.name || '', x.type || '', x.dist || '', (x.tags || []).join(' ')
+        ].join(' ').toLowerCase().includes(k));
+      }
+      if (!data.length) { deck.innerHTML = '<div class="meta" style="text-align:center;opacity:.7">沒有資料</div>'; return; }
+
+      deck.innerHTML = data.map(x => {
+        if (!x.editing) {
+          /* 檢視模式 */
+          return `
+          <div class="card" data-id="${x.id}">
+            <button class="x" title="刪除">×</button>
+            <button class="gear" title="編輯">⚙</button>
+
+            <div class="title">${x.name || '（未命名）'}</div>
+            <div class="meta">餐點類型：${x.type || '—'}</div>
+            <div class="meta">單人均價：${x.price != null ? 'NT$' + x.price : '—'}</div>
+            <div class="meta">地區：${x.dist || '—'}</div>
+
+            <div class="tags">${(x.tags || []).map(t => `<span class="chip">#${t}</span>`).join('')}</div>
+
+            <!-- #特色輸入 + 按鈕 -->
+            <div class="card-row">
+              <input class="ipt tag-input" data-id="${x.id}" placeholder="新增 #特色（逗號分隔）" />
+              <button class="btnsm" data-addtag="${x.id}">加入</button>
+            </div>
+
+            <!-- 按鈕列：地圖 + ✔ -->
+            <div class="card-row">
+              <a class="btnsm" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent([x.name, x.type, x.dist].filter(Boolean).join(' '))}" target="_blank" rel="noopener">地圖</a>
+              <button class="icon sel ${x.selected ? 'active' : ''}" title="選取">✔</button>
+            </div>
+          </div>`;
+        } else {
+          /* 編輯模式 */
+          return `
+          <div class="card" data-id="${x.id}">
+            <button class="x" title="刪除">×</button>
+            <button class="gear" title="取消" data-cancel>↩</button>
+
+            <div class="edit-row"><div class="meta">餐廳名稱</div><input class="ipt" id="e-name-${x.id}" value="${x.name || ''}" placeholder="餐廳名稱"></div>
+            <div class="edit-row"><div class="meta">餐點類型</div><input class="ipt" id="e-type-${x.id}" value="${x.type || ''}" placeholder="牛肉麵 / 咖哩飯"></div>
+            <div class="edit-row"><div class="meta">單人均價</div><input class="ipt" id="e-price-${x.id}" type="number" min="0" step="10" value="${x.price ?? ''}" placeholder="例如 220"></div>
+            <div class="edit-row"><div class="meta">地區</div><input class="ipt" id="e-dist-${x.id}" value="${x.dist || ''}" placeholder="台北 大安區"></div>
+            <div class="edit-row"><div class="meta">#特色</div><input class="ipt" id="e-tags-${x.id}" value="${(x.tags || []).join(',')}" placeholder="逗號分隔：深夜,辣,排隊"></div>
+
+            <div class="edit-actions">
+              <button class="btnline" data-cancel>取消</button>
+              <button class="btn" data-save>存檔</button>
+            </div>
+          </div>`;
+        }
+      }).join('');
+    }
+
+    /* ===== 初始資料（第一次） ===== */
+    if (!load().length) {
+      save([
+        { id: Date.now() + 2, name: '永康牛肉麵', type: '牛肉麵', dist: '台北 大安區', price: 220, tags: ['排隊', '濃郁'], selected: false },
+        { id: Date.now() + 1, name: '阿堂鹹粥', type: '鹹粥', dist: '台南 北區', price: 180, tags: ['海鮮', '在地'], selected: false },
+        { id: Date.now() + 0, name: '宮原眼科', type: '冰品', dist: '台中 中區', price: 150, tags: ['甜點'], selected: false }
+      ]);
+    }
+    // if (!load().length) {
+    //   save([
+    //     { id: Date.now() + 2, name: '永康牛肉麵', type: '牛肉麵', dist: '台北 大安區', price: 220, tags: ['排隊', '濃郁'], selected: false },
+    //     { id: Date.now() + 1, name: '阿堂鹹粥', type: '鹹粥', dist: '台南 北區', price: 180, tags: ['海鮮', '在地'], selected: false },
+    //     { id: Date.now() + 0, name: '宮原眼科', type: '冰品', dist: '台中 中區', price: 150, tags: ['甜點'], selected: false }
+    //   ]);
+    // }
+    render();
+
+    /* ===== 新增（彈出） ===== */
+    const dlg = document.getElementById('dlg');
+    document.getElementById('btnNew').onclick = () => dlg.showModal();
+    document.getElementById('dlgX').onclick = () => dlg.close();
+    document.getElementById('dlgCancel').onclick = () => dlg.close();
+    document.getElementById('dlgOk').onclick = () => {
+      const name = document.getElementById('fName').value.trim();
+      if (!name) { alert('請輸入餐廳名稱'); return; }
+      const type = document.getElementById('fType').value.trim();
+      const dist = document.getElementById('fDist').value.trim();
+      const price = document.getElementById('fPrice').value.trim();
+      const tags = (document.getElementById('fTags').value || '').split(',').map(s => s.trim()).filter(Boolean);
+      const data = load();
+      data.unshift({ id: Date.now(), name, type, dist, price: price ? Number(price) : null, tags, selected: false });
+      save(data);
+      dlg.close();
+      document.getElementById('fName').value = '';
+      document.getElementById('fType').value = '';
+      document.getElementById('fDist').value = '';
+      document.getElementById('fPrice').value = '';
+      document.getElementById('fTags').value = '';
+      render();
+    };
+
+    /* ===== 搜尋 ===== */
+    document.getElementById('q').oninput = () => render();
+
+    /* ===== 卡片內互動（委派） ===== */
+    document.getElementById('deck').addEventListener('click', (e) => {
+      const card = e.target.closest('.card'); if (!card) return;
+      const id = Number(card.dataset.id);
+      let data = load();
+
+      // 刪除
+      if (e.target.classList.contains('x')) {
+        if (confirm('刪除此卡片？')) { save(data.filter(x => x.id !== id)); render(); }
+        return;
+      }
+
+      // 進入編輯模式（齒輪）
+      if (e.target.classList.contains('gear') && e.target.dataset.cancel === undefined) {
+        const it = data.find(x => x.id === id);
+        if (it) { it.editing = true; save(data); render(); }
+        return;
+      }
+
+      // 取消編輯（齒輪↩ 或下方取消）
+      if (e.target.dataset.cancel !== undefined) {
+        const it = data.find(x => x.id === id);
+        if (it) { it.editing = false; save(data); render(); }
+        return;
+      }
+
+      // 存檔
+      if (e.target.dataset.save !== undefined) {
+        const it = data.find(x => x.id === id);
+        if (it) {
+          const g = s => document.getElementById(s).value.trim();
+          const name = g(`e-name-${id}`); if (!name) { alert('請輸入餐廳名稱'); return; }
+          const type = g(`e-type-${id}`);
+          const dist = g(`e-dist-${id}`);
+          const ptxt = g(`e-price-${id}`);
+          const price = ptxt ? Number(ptxt) : null;
+          const tagsText = g(`e-tags-${id}`);
+          const tags = tagsText ? tagsText.split(',').map(s => s.trim()).filter(Boolean) : [];
+
+          it.name = name; it.type = type; it.dist = dist; it.price = price; it.tags = tags;
+          it.editing = false;
+          save(data); render();
+        }
+        return;
+      }
+
+      // 選取
+      if (e.target.classList.contains('sel')) {
+        const it = data.find(x => x.id === id);
+        if (it) { it.selected = !it.selected; save(data); e.target.classList.toggle('active'); }
+        return;
+      }
+
+      // 加入 #特色
+      if (e.target.matches('[data-addtag]')) {
+        const box = document.querySelector(`.tag-input[data-id="${id}"]`);
+        if (!box) return;
+        const add = (box.value || '')
+          .split(',')
+          .map(s => s.trim())
+          .filter(Boolean)
+          .map(s => s.replace(/^#/, ''));
+        if (!add.length) return;
+
+        const it = data.find(x => x.id === id);
+        if (it) {
+          const set = new Set(it.tags || []);
+          add.forEach(t => set.add(t));
+          it.tags = Array.from(set);
+          save(data);
+          box.value = '';
+          render();
+        }
+        return;
+      }
+    });
+
+    /* 在 #特色輸入框按 Enter 也能加入 */
+    document.getElementById('deck').addEventListener('keydown', (e) => {
+      if (e.key !== 'Enter') return;
+      if (!e.target.classList.contains('tag-input')) return;
+      const id = Number(e.target.dataset.id);
+      const fakeBtn = document.querySelector(`[data-addtag="${id}"]`);
+      if (fakeBtn) fakeBtn.click();
+    });
+
+    /* ===== 抽卡（只從已選取） ===== */
+    document.getElementById('btnDraw').onclick = () => {
+      const picked = load().filter(x => x.selected);
+      if (!picked.length) { alert('請先在卡片按「✔」選取至少一張'); return; }
+      const one = picked[Math.floor(Math.random() * picked.length)];
+      const el = document.querySelector(`.card[data-id="${one.id}"]`);
+      if (el) { el.classList.remove('hi'); void el.offsetWidth; el.classList.add('hi'); el.scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+    };
+
+
+    // ====匯入資料的功能按鍵====
+   btnGetData.onclick = function () {
+  let url = './台灣1000筆餐廳資訊.json';
+
+  $.get(url, function (data) {
+    let apple = Array.isArray(data) ? data : (data.results || []);
+    let cat = Date.now();
+
+    let dog = [];
+    for (let i = 0; i < apple.length; i++) {
+      let x = apple[i];
+      dog.push({
+        id: (x.id != null) ? x.id : (cat + i),
+        name: x.name || '',
+        type: x.type || '',
+        dist: x.dist || '',
+        price: (x.price == null || x.price === '') ? null : Number(x.price),
+        tags: Array.isArray(x.tags)
+          ? x.tags
+          : String(x.tags || '').split(',').map(function (s) { return s.trim(); }).filter(Boolean),
+        selected: !!x.selected
+      });
+    }
+
+    localStorage.removeItem(KEY); // 清掉舊資料
+    save(dog);                    // 覆寫成新資料
+    render();
+  }, 'json');
+};
+
+  </script>
+</body>
+
+</html>

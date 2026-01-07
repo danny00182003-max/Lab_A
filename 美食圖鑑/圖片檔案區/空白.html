@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<title>輸入→卡片 + 保存</title>
+<style>
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans TC",sans-serif;padding:16px;background:#0f1220;color:#eaf0ff}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+  input{padding:8px 10px;border-radius:12px;border:1px solid #31406e;background:#0e1634;color:#eaf0ff;outline:none}
+  button{padding:8px 12px;border-radius:12px;border:1px solid #31406e;background:#2a6aff;color:#fff;cursor:pointer}
+  #deck{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));}
+  .card{position:relative;background:#161433;border-radius:16px;box-shadow:0 10px 24px rgba(0,0,0,.35),0 0 0 1px rgba(124,196,255,.14) inset;padding:12px}
+  .title{font-weight:800;margin:0 28px 6px 0}
+  .meta{font-size:13px;color:#bcd5ff;line-height:1.7}
+  .x{position:absolute;right:8px;top:8px;width:26px;height:26px;display:grid;place-items:center;border-radius:10px;border:1px solid #3a4474;background:#2b2f52;color:#ffd6e4;cursor:pointer}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+  .chip{font-size:12px;color:#cfe2ff;border:1px solid #31406e;border-radius:999px;padding:3px 8px}
+</style>
+
+<h2>新增卡片</h2>
+<div class="row">
+  <input id="name"  placeholder="餐廳名稱（必填）">
+  <input id="type"  placeholder="餐點類型（例：牛肉麵）">
+  <input id="dist"  placeholder="地區（例：台北 大安區）">
+  <input id="tags"  placeholder="#特色（逗號分隔：排隊,深夜）">
+  <button id="add">新增</button>
+</div>
+
+<h2>我的卡片</h2>
+<div id="deck"></div>
+
+<script>
+  const KEY = 'cards_v1';
+  const deck = document.getElementById('deck');
+  const elName = document.getElementById('name');
+  const elType = document.getElementById('type');
+  const elDist = document.getElementById('dist');
+  const elTags = document.getElementById('tags');
+  const btnAdd = document.getElementById('add');
+
+  // 讀取/儲存
+  function load(){ return JSON.parse(localStorage.getItem(KEY)||'[]'); }
+  function save(arr){ localStorage.setItem(KEY, JSON.stringify(arr)); }
+
+  // 產生卡片 DOM
+  function cardTpl(item){
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.dataset.id = item.id;
+    div.innerHTML = `
+      <button class="x" title="刪除">×</button>
+      <div class="title">${item.name}</div>
+      <div class="meta">餐點類型：${item.type||'—'}</div>
+      <div class="meta">地區：${item.dist||'—'}</div>
+      <div class="tags">${(item.tags||[]).map(t=>`<span class="chip">#${t}</span>`).join('')}</div>
+    `;
+    return div;
+  }
+
+  // 渲染全部
+  function render(){
+    const data = load();
+    deck.innerHTML = '';
+    if(!data.length){ deck.innerHTML = '<div class="meta">尚無卡片，請上面新增。</div>'; return; }
+    data.forEach(item => deck.appendChild(cardTpl(item)));
+  }
+
+  // 新增
+  btnAdd.onclick = function(){
+    const name = elName.value.trim();
+    if(!name){ elName.focus(); return; }
+    const type = elType.value.trim();
+    const dist = elDist.value.trim();
+    const tags = elTags.value ? elTags.value.split(',').map(s=>s.trim()).filter(Boolean) : [];
+    const data = load();
+    data.push({ id: Date.now(), name, type, dist, tags });
+    save(data);
+    elName.value = elType.value = elDist.value = elTags.value = '';
+    elName.focus();
+    render();
+  };
+
+  // 刪除（事件委派）
+  deck.addEventListener('click', function(e){
+    if(!e.target.classList.contains('x')) return;
+    const id = Number(e.target.closest('.card').dataset.id);
+    const data = load().filter(x => x.id !== id);
+    save(data);
+    render();
+  });
+
+  // 初次載入
+  render();
+</script>

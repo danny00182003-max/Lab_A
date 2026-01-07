@@ -1,0 +1,12044 @@
+[
+  {
+    "name": "春日食堂",
+    "type": "米糕",
+    "dist": "新北市 蘆洲區",
+    "price": 180,
+    "tags": [
+      "約會",
+      "高級",
+      "排隊",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日冰品",
+    "type": "印度菜",
+    "dist": "嘉義縣 太保市",
+    "price": 160,
+    "tags": [
+      "在地",
+      "濃郁",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名港式小吃",
+    "type": "港式",
+    "dist": "台中市 潭子區",
+    "price": 220,
+    "tags": [
+      "高級",
+      "打卡",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成火鍋牛肉麵",
+    "type": "火鍋",
+    "dist": "金門縣 金沙鎮",
+    "price": 160,
+    "tags": [
+      "在地",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店牛肉麵",
+    "type": "米糕",
+    "dist": "台南市 新化區",
+    "price": 280,
+    "tags": [
+      "必比登",
+      "濃郁",
+      "深夜",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟披薩",
+    "type": "泰式",
+    "dist": "嘉義縣 番路鄉",
+    "price": 100,
+    "tags": [
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王便當",
+    "type": "蚵仔煎",
+    "dist": "新北市 五股區",
+    "price": 320,
+    "tags": [
+      "約會",
+      "宵夜",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中居酒屋",
+    "type": "雞肉飯",
+    "dist": "嘉義縣 朴子市",
+    "price": 200,
+    "tags": [
+      "米其林推薦",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口冰品",
+    "type": "排骨飯",
+    "dist": "台南市 安平區",
+    "price": 230,
+    "tags": [
+      "清爽",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日冰品",
+    "type": "拉麵",
+    "dist": "彰化縣 北斗鎮",
+    "price": 230,
+    "tags": [
+      "多人聚餐",
+      "外帶",
+      "素食友善",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日複合式",
+    "type": "壽司",
+    "dist": "新北市 新店區",
+    "price": 280,
+    "tags": [
+      "景觀",
+      "高級",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成牛排拉麵",
+    "type": "牛排",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 400,
+    "tags": [
+      "在地",
+      "老字號",
+      "隱藏版",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館排骨飯拉麵",
+    "type": "排骨飯",
+    "dist": "高雄市 林園區",
+    "price": 220,
+    "tags": [
+      "文青",
+      "濃郁",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口鵝肉麵",
+    "type": "鵝肉",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 280,
+    "tags": [
+      "打卡",
+      "深夜",
+      "平價",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名早午餐",
+    "type": "豆花",
+    "dist": "新竹縣 竹北市",
+    "price": 350,
+    "tags": [
+      "平價",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成燒肉居酒屋",
+    "type": "燒肉",
+    "dist": "雲林縣 林內鄉",
+    "price": 210,
+    "tags": [
+      "素食友善",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店牛排冰品",
+    "type": "牛排",
+    "dist": "彰化縣 鹿港鎮",
+    "price": 80,
+    "tags": [
+      "文青",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中甜點",
+    "type": "蚵仔煎",
+    "dist": "台中市 中區",
+    "price": 130,
+    "tags": [
+      "隱藏版",
+      "外帶",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤複合式",
+    "type": "豆花",
+    "dist": "苗栗縣 獅潭鄉",
+    "price": 160,
+    "tags": [
+      "約會",
+      "多人聚餐",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環冰品",
+    "type": "咖啡",
+    "dist": "台東縣 鹿野鄉",
+    "price": 320,
+    "tags": [
+      "平價",
+      "CP值高",
+      "老字號",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記小吃",
+    "type": "滷肉飯",
+    "dist": "台南市 安平區",
+    "price": 320,
+    "tags": [
+      "文青",
+      "老字號",
+      "高級",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣炸雞",
+    "type": "臭豆腐",
+    "dist": "新北市 八里區",
+    "price": 280,
+    "tags": [
+      "外帶",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中蚵仔煎食堂",
+    "type": "蚵仔煎",
+    "dist": "嘉義縣 新港鄉",
+    "price": 160,
+    "tags": [
+      "素食友善",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛排複合式",
+    "type": "牛排",
+    "dist": "嘉義縣 鹿草鄉",
+    "price": 280,
+    "tags": [
+      "在地",
+      "宵夜",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹豆花",
+    "type": "剉冰",
+    "dist": "嘉義縣 朴子市",
+    "price": 280,
+    "tags": [
+      "清爽",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日海產",
+    "type": "火鍋",
+    "dist": "台中市 大甲區",
+    "price": 180,
+    "tags": [
+      "景觀",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店小吃",
+    "type": "火鍋",
+    "dist": "南投縣 信義鄉",
+    "price": 320,
+    "tags": [
+      "打卡",
+      "景觀",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌壽司",
+    "type": "客家菜",
+    "dist": "台南市 安平區",
+    "price": 320,
+    "tags": [
+      "約會",
+      "巷弄",
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中牛肉麵",
+    "type": "咖啡",
+    "dist": "台北市 大安區",
+    "price": 230,
+    "tags": [
+      "必比登",
+      "巷弄",
+      "辣",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王火鍋麵",
+    "type": "火鍋",
+    "dist": "台南市 東區",
+    "price": 320,
+    "tags": [
+      "濃郁",
+      "CP值高",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤海產",
+    "type": "火鍋",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 280,
+    "tags": [
+      "米其林推薦",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華小吃",
+    "type": "豆花",
+    "dist": "桃園市 觀音區",
+    "price": 280,
+    "tags": [
+      "濃郁",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口拉麵燒肉",
+    "type": "拉麵",
+    "dist": "新北市 汐止區",
+    "price": 120,
+    "tags": [
+      "必比登",
+      "文青",
+      "景觀",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記火鍋",
+    "type": "炸雞",
+    "dist": "高雄市 前金區",
+    "price": 130,
+    "tags": [
+      "隱藏版",
+      "辣",
+      "必比登",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生複合式",
+    "type": "印度菜",
+    "dist": "嘉義縣 大埔鄉",
+    "price": 350,
+    "tags": [
+      "清爽",
+      "多人聚餐",
+      "濃郁",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗拉麵早午餐",
+    "type": "拉麵",
+    "dist": "台南市 佳里區",
+    "price": 120,
+    "tags": [
+      "深夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹披薩",
+    "type": "手搖飲",
+    "dist": "基隆市 安樂區",
+    "price": 280,
+    "tags": [
+      "深夜",
+      "素食友善",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康牛肉麵牛排",
+    "type": "牛肉麵",
+    "dist": "台中市 大肚區",
+    "price": 180,
+    "tags": [
+      "辣",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下燒肉合菜",
+    "type": "燒肉",
+    "dist": "新北市 石門區",
+    "price": 120,
+    "tags": [
+      "排隊",
+      "宵夜",
+      "隱藏版",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街合菜",
+    "type": "印度菜",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 160,
+    "tags": [
+      "CP值高",
+      "排隊",
+      "高級",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店甜點",
+    "type": "無菜單料理",
+    "dist": "台北市 南港區",
+    "price": 300,
+    "tags": [
+      "深夜",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野甜點",
+    "type": "排骨飯",
+    "dist": "雲林縣 西螺鎮",
+    "price": 220,
+    "tags": [
+      "老字號",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟拉麵",
+    "type": "川菜",
+    "dist": "台中市 潭子區",
+    "price": 280,
+    "tags": [
+      "深夜",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中無菜單料理便當",
+    "type": "無菜單料理",
+    "dist": "雲林縣 崙背鄉",
+    "price": 250,
+    "tags": [
+      "景觀",
+      "約會",
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟牛排燒肉",
+    "type": "牛排",
+    "dist": "台中市 西屯區",
+    "price": 300,
+    "tags": [
+      "多人聚餐",
+      "巷弄",
+      "約會",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環客家菜麵館",
+    "type": "客家菜",
+    "dist": "南投縣 水里鄉",
+    "price": 160,
+    "tags": [
+      "在地",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環牛排",
+    "type": "越式",
+    "dist": "高雄市 鹽埕區",
+    "price": 120,
+    "tags": [
+      "平價",
+      "排隊",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛排",
+    "type": "牛排",
+    "dist": "基隆市 中山區",
+    "price": 150,
+    "tags": [
+      "在地",
+      "濃郁",
+      "親子",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口火鍋",
+    "type": "拉麵",
+    "dist": "台中市 大肚區",
+    "price": 350,
+    "tags": [
+      "景觀",
+      "在地",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環麵館",
+    "type": "手搖飲",
+    "dist": "嘉義縣 民雄鄉",
+    "price": 230,
+    "tags": [
+      "巷弄",
+      "隱藏版",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋牛肉麵",
+    "type": "印度菜",
+    "dist": "台中市 梧棲區",
+    "price": 180,
+    "tags": [
+      "平價",
+      "CP值高",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中居酒屋",
+    "type": "義大利麵",
+    "dist": "台南市 安平區",
+    "price": 230,
+    "tags": [
+      "清爽",
+      "米其林推薦",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟越式豆花",
+    "type": "越式",
+    "dist": "澎湖縣 西嶼鄉",
+    "price": 280,
+    "tags": [
+      "外帶",
+      "CP值高",
+      "巷弄",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟燒肉",
+    "type": "港式",
+    "dist": "台北市 信義區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "平價",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館泰式海產",
+    "type": "泰式",
+    "dist": "南投縣 名間鄉",
+    "price": 220,
+    "tags": [
+      "外帶",
+      "深夜",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成拉麵麵館",
+    "type": "拉麵",
+    "dist": "彰化縣 和美鎮",
+    "price": 380,
+    "tags": [
+      "老字號",
+      "親子",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下豆花",
+    "type": "雞肉飯",
+    "dist": "南投縣 仁愛鄉",
+    "price": 280,
+    "tags": [
+      "文青",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日豆花",
+    "type": "鵝肉",
+    "dist": "台中市 沙鹿區",
+    "price": 220,
+    "tags": [
+      "文青",
+      "深夜",
+      "景觀",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野咖啡",
+    "type": "咖哩飯",
+    "dist": "嘉義縣 中埔鄉",
+    "price": 200,
+    "tags": [
+      "必比登",
+      "米其林推薦",
+      "宵夜",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館拉麵",
+    "type": "排骨飯",
+    "dist": "嘉義縣 朴子市",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口壽司",
+    "type": "早午餐",
+    "dist": "新北市 鶯歌區",
+    "price": 250,
+    "tags": [
+      "高級",
+      "打卡",
+      "CP值高",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口咖啡",
+    "type": "滷肉飯",
+    "dist": "台南市 新化區",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "在地",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口火鍋冰品",
+    "type": "火鍋",
+    "dist": "雲林縣 臺西鄉",
+    "price": 80,
+    "tags": [
+      "辣",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店食堂",
+    "type": "海鮮",
+    "dist": "新竹縣 峨眉鄉",
+    "price": 230,
+    "tags": [
+      "素食友善",
+      "巷弄",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下披薩",
+    "type": "印度菜",
+    "dist": "金門縣 金寧鄉",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "清爽",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口披薩",
+    "type": "居酒屋",
+    "dist": "花蓮縣 瑞穗鄉",
+    "price": 350,
+    "tags": [
+      "在地",
+      "必比登",
+      "排隊",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤豆花",
+    "type": "牛肉麵",
+    "dist": "嘉義縣 布袋鎮",
+    "price": 210,
+    "tags": [
+      "素食友善",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名牛排",
+    "type": "披薩",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 220,
+    "tags": [
+      "文青",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗便當",
+    "type": "壽司",
+    "dist": "新竹市 北區",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "多人聚餐",
+      "宵夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹小籠包小吃",
+    "type": "小籠包",
+    "dist": "彰化縣 埔心鄉",
+    "price": 100,
+    "tags": [
+      "隱藏版",
+      "CP值高",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生麵",
+    "type": "臭豆腐",
+    "dist": "高雄市 永安區",
+    "price": 80,
+    "tags": [
+      "排隊",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹牛排",
+    "type": "泰式",
+    "dist": "高雄市 田寮區",
+    "price": 280,
+    "tags": [
+      "景觀",
+      "外帶",
+      "濃郁",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館火鍋",
+    "type": "滷肉飯",
+    "dist": "屏東縣 林邊鄉",
+    "price": 130,
+    "tags": [
+      "高級",
+      "辣",
+      "濃郁",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂小吃",
+    "type": "臭豆腐",
+    "dist": "嘉義縣 水上鄉",
+    "price": 250,
+    "tags": [
+      "辣",
+      "外帶",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂小吃",
+    "type": "客家菜",
+    "dist": "高雄市 前鎮區",
+    "price": 120,
+    "tags": [
+      "平價",
+      "宵夜",
+      "素食友善",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館牛肉麵",
+    "type": "滷肉飯",
+    "dist": "台南市 鹽水區",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "平價",
+      "排隊",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖啡",
+    "type": "披薩",
+    "dist": "南投縣 埔里鎮",
+    "price": 280,
+    "tags": [
+      "文青",
+      "隱藏版",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記咖啡",
+    "type": "蚵仔煎",
+    "dist": "台中市 沙鹿區",
+    "price": 220,
+    "tags": [
+      "約會",
+      "深夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生合菜",
+    "type": "燒肉",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "打卡",
+      "親子",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康壽司",
+    "type": "咖哩飯",
+    "dist": "宜蘭縣 羅東鎮",
+    "price": 300,
+    "tags": [
+      "親子",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王炸雞",
+    "type": "越式",
+    "dist": "高雄市 彌陀區",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "約會",
+      "多人聚餐",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋壽司",
+    "type": "越式",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 220,
+    "tags": [
+      "打卡",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生川菜豆花",
+    "type": "川菜",
+    "dist": "台北市 南港區",
+    "price": 280,
+    "tags": [
+      "米其林推薦",
+      "巷弄",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康拉麵",
+    "type": "壽司",
+    "dist": "高雄市 阿蓮區",
+    "price": 200,
+    "tags": [
+      "CP值高",
+      "隱藏版",
+      "排隊",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成便當",
+    "type": "越式",
+    "dist": "屏東縣 鹽埔鄉",
+    "price": 280,
+    "tags": [
+      "排隊",
+      "濃郁",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生印度菜披薩",
+    "type": "印度菜",
+    "dist": "台中市 外埔區",
+    "price": 320,
+    "tags": [
+      "景觀",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記小吃",
+    "type": "火鍋",
+    "dist": "高雄市 仁武區",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "外帶",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗牛排",
+    "type": "手搖飲",
+    "dist": "新竹縣 新豐鄉",
+    "price": 180,
+    "tags": [
+      "平價",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口炸雞豆花",
+    "type": "炸雞",
+    "dist": "嘉義縣 大林鎮",
+    "price": 380,
+    "tags": [
+      "文青",
+      "深夜",
+      "排隊",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣麵館",
+    "type": "甜點",
+    "dist": "台東縣 鹿野鄉",
+    "price": 250,
+    "tags": [
+      "巷弄",
+      "外帶",
+      "老字號",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環冰品",
+    "type": "剉冰",
+    "dist": "雲林縣 林內鄉",
+    "price": 120,
+    "tags": [
+      "巷弄",
+      "文青",
+      "素食友善",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口蚵仔煎豆花",
+    "type": "蚵仔煎",
+    "dist": "彰化縣 福興鄉",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "素食友善",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街蚵仔煎小吃",
+    "type": "蚵仔煎",
+    "dist": "雲林縣 土庫鎮",
+    "price": 230,
+    "tags": [
+      "多人聚餐",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口豆花",
+    "type": "雞肉飯",
+    "dist": "彰化縣 福興鄉",
+    "price": 120,
+    "tags": [
+      "宵夜",
+      "濃郁",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂泰式居酒屋",
+    "type": "泰式",
+    "dist": "台東縣 關山鎮",
+    "price": 160,
+    "tags": [
+      "濃郁",
+      "外帶",
+      "宵夜",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂滷肉飯豆花",
+    "type": "滷肉飯",
+    "dist": "苗栗縣 竹南鎮",
+    "price": 350,
+    "tags": [
+      "辣",
+      "外帶",
+      "約會",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗港式複合式",
+    "type": "港式",
+    "dist": "台北市 士林區",
+    "price": 210,
+    "tags": [
+      "巷弄",
+      "在地",
+      "多人聚餐",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華川菜複合式",
+    "type": "川菜",
+    "dist": "屏東縣 九如鄉",
+    "price": 210,
+    "tags": [
+      "CP值高",
+      "景觀",
+      "外帶",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口甜點",
+    "type": "雞肉飯",
+    "dist": "高雄市 左營區",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "宵夜",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口豆花",
+    "type": "咖啡",
+    "dist": "台南市 東區",
+    "price": 220,
+    "tags": [
+      "高級",
+      "平價",
+      "景觀",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華蚵仔煎燒肉",
+    "type": "蚵仔煎",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 210,
+    "tags": [
+      "巷弄",
+      "清爽",
+      "在地",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟小吃",
+    "type": "手搖飲",
+    "dist": "屏東縣 枋寮鄉",
+    "price": 380,
+    "tags": [
+      "深夜",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店小吃",
+    "type": "火鍋",
+    "dist": "屏東縣 新園鄉",
+    "price": 350,
+    "tags": [
+      "排隊",
+      "宵夜",
+      "多人聚餐",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野咖啡",
+    "type": "越式",
+    "dist": "台中市 龍井區",
+    "price": 220,
+    "tags": [
+      "素食友善",
+      "巷弄",
+      "高級",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛排",
+    "type": "咖啡",
+    "dist": "花蓮縣 花蓮市",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "親子",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口冰品",
+    "type": "豆花",
+    "dist": "台中市 烏日區",
+    "price": 350,
+    "tags": [
+      "景觀",
+      "深夜",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華早午餐",
+    "type": "早午餐",
+    "dist": "基隆市 中山區",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街拉麵",
+    "type": "川菜",
+    "dist": "金門縣 烈嶼鄉",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口合菜",
+    "type": "牛肉麵",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 280,
+    "tags": [
+      "CP值高",
+      "隱藏版",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名燒肉",
+    "type": "蚵仔煎",
+    "dist": "台南市 中西區",
+    "price": 80,
+    "tags": [
+      "景觀",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名合菜",
+    "type": "燒肉",
+    "dist": "南投縣 國姓鄉",
+    "price": 160,
+    "tags": [
+      "辣",
+      "外帶",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口早午餐",
+    "type": "滷肉飯",
+    "dist": "新北市 新莊區",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日複合式",
+    "type": "無菜單料理",
+    "dist": "高雄市 大樹區",
+    "price": 130,
+    "tags": [
+      "約會",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟火鍋",
+    "type": "炸雞",
+    "dist": "嘉義縣 阿里山鄉",
+    "price": 150,
+    "tags": [
+      "打卡",
+      "濃郁",
+      "排隊",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口居酒屋",
+    "type": "手搖飲",
+    "dist": "屏東縣 崁頂鄉",
+    "price": 250,
+    "tags": [
+      "排隊",
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌壽司",
+    "type": "居酒屋",
+    "dist": "嘉義縣 溪口鄉",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "辣",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋咖啡",
+    "type": "火鍋",
+    "dist": "台南市 西港區",
+    "price": 200,
+    "tags": [
+      "在地",
+      "親子",
+      "素食友善",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌咖啡",
+    "type": "港式",
+    "dist": "南投縣 仁愛鄉",
+    "price": 280,
+    "tags": [
+      "約會",
+      "老字號",
+      "濃郁",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟披薩",
+    "type": "泰式",
+    "dist": "新北市 板橋區",
+    "price": 80,
+    "tags": [
+      "約會",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟冰品",
+    "type": "港式",
+    "dist": "新竹縣 橫山鄉",
+    "price": 130,
+    "tags": [
+      "米其林推薦",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生手搖飲拉麵",
+    "type": "手搖飲",
+    "dist": "苗栗縣 三灣鄉",
+    "price": 220,
+    "tags": [
+      "平價",
+      "景觀",
+      "老字號",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口壽司",
+    "type": "米糕",
+    "dist": "南投縣 草屯鎮",
+    "price": 230,
+    "tags": [
+      "老字號",
+      "米其林推薦",
+      "辣",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記拉麵",
+    "type": "牛排",
+    "dist": "高雄市 旗津區",
+    "price": 130,
+    "tags": [
+      "親子",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華麵館",
+    "type": "米糕",
+    "dist": "嘉義縣 番路鄉",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "米其林推薦",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂豆花",
+    "type": "燒肉",
+    "dist": "連江縣 南竿鄉",
+    "price": 120,
+    "tags": [
+      "清爽",
+      "隱藏版",
+      "必比登",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂鵝肉早午餐",
+    "type": "鵝肉",
+    "dist": "基隆市 中山區",
+    "price": 150,
+    "tags": [
+      "素食友善",
+      "隱藏版",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生海產",
+    "type": "豆花",
+    "dist": "南投縣 魚池鄉",
+    "price": 100,
+    "tags": [
+      "在地",
+      "清爽",
+      "濃郁",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生小吃",
+    "type": "燒肉",
+    "dist": "屏東縣 林邊鄉",
+    "price": 320,
+    "tags": [
+      "必比登",
+      "米其林推薦",
+      "景觀",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口小吃",
+    "type": "義大利麵",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 380,
+    "tags": [
+      "隱藏版",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康麵",
+    "type": "炸雞",
+    "dist": "新北市 淡水區",
+    "price": 120,
+    "tags": [
+      "在地",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下早午餐",
+    "type": "甜點",
+    "dist": "高雄市 彌陀區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環無菜單料理燒肉",
+    "type": "無菜單料理",
+    "dist": "高雄市 旗津區",
+    "price": 80,
+    "tags": [
+      "老字號",
+      "多人聚餐",
+      "巷弄",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生客家菜披薩",
+    "type": "客家菜",
+    "dist": "基隆市 中山區",
+    "price": 120,
+    "tags": [
+      "多人聚餐",
+      "排隊",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日麵",
+    "type": "手搖飲",
+    "dist": "台東縣 關山鎮",
+    "price": 350,
+    "tags": [
+      "辣",
+      "必比登",
+      "高級",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下牛排",
+    "type": "咖啡",
+    "dist": "南投縣 水里鄉",
+    "price": 160,
+    "tags": [
+      "約會",
+      "外帶",
+      "CP值高",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野燒肉",
+    "type": "咖哩飯",
+    "dist": "屏東縣 里港鄉",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "多人聚餐",
+      "景觀",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成炸雞",
+    "type": "臭豆腐",
+    "dist": "台中市 石岡區",
+    "price": 230,
+    "tags": [
+      "深夜",
+      "在地",
+      "米其林推薦",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣壽司",
+    "type": "甜點",
+    "dist": "新北市 中和區",
+    "price": 280,
+    "tags": [
+      "文青",
+      "辣",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌甜點",
+    "type": "米糕",
+    "dist": "台中市 西區",
+    "price": 80,
+    "tags": [
+      "景觀",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館便當",
+    "type": "壽司",
+    "dist": "嘉義縣 中埔鄉",
+    "price": 130,
+    "tags": [
+      "老字號",
+      "巷弄",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名炸雞",
+    "type": "火鍋",
+    "dist": "台東縣 東河鄉",
+    "price": 120,
+    "tags": [
+      "平價",
+      "素食友善",
+      "巷弄",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成拉麵",
+    "type": "豆花",
+    "dist": "台中市 后里區",
+    "price": 220,
+    "tags": [
+      "多人聚餐",
+      "素食友善",
+      "文青",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野便當",
+    "type": "無菜單料理",
+    "dist": "新竹縣 北埔鄉",
+    "price": 230,
+    "tags": [
+      "高級",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環拉麵",
+    "type": "甜點",
+    "dist": "宜蘭縣 蘇澳鎮",
+    "price": 160,
+    "tags": [
+      "宵夜",
+      "深夜",
+      "外帶",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋燒肉豆花",
+    "type": "燒肉",
+    "dist": "彰化縣 埔鹽鄉",
+    "price": 160,
+    "tags": [
+      "深夜",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂居酒屋",
+    "type": "蚵仔煎",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 210,
+    "tags": [
+      "米其林推薦",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館居酒屋披薩",
+    "type": "居酒屋",
+    "dist": "屏東縣 崁頂鄉",
+    "price": 350,
+    "tags": [
+      "老字號",
+      "親子",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗牛肉麵",
+    "type": "火鍋",
+    "dist": "桃園市 平鎮區",
+    "price": 300,
+    "tags": [
+      "景觀",
+      "外帶",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環披薩",
+    "type": "早午餐",
+    "dist": "金門縣 烈嶼鄉",
+    "price": 380,
+    "tags": [
+      "高級",
+      "外帶",
+      "排隊",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日居酒屋",
+    "type": "牛排",
+    "dist": "屏東縣 崁頂鄉",
+    "price": 180,
+    "tags": [
+      "平價",
+      "約會",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生冰品",
+    "type": "居酒屋",
+    "dist": "高雄市 阿蓮區",
+    "price": 160,
+    "tags": [
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌食堂",
+    "type": "港式",
+    "dist": "嘉義縣 水上鄉",
+    "price": 320,
+    "tags": [
+      "巷弄",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日牛肉麵居酒屋",
+    "type": "牛肉麵",
+    "dist": "南投縣 水里鄉",
+    "price": 320,
+    "tags": [
+      "隱藏版",
+      "打卡",
+      "親子",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街火鍋",
+    "type": "居酒屋",
+    "dist": "桃園市 楊梅區",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "必比登",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日咖啡",
+    "type": "無菜單料理",
+    "dist": "嘉義縣 鹿草鄉",
+    "price": 320,
+    "tags": [
+      "巷弄",
+      "在地",
+      "高級",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日印度菜披薩",
+    "type": "印度菜",
+    "dist": "雲林縣 土庫鎮",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "文青",
+      "素食友善",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤海產",
+    "type": "海鮮",
+    "dist": "桃園市 大溪區",
+    "price": 160,
+    "tags": [
+      "素食友善",
+      "隱藏版",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味便當",
+    "type": "披薩",
+    "dist": "彰化縣 埔鹽鄉",
+    "price": 160,
+    "tags": [
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成泰式海產",
+    "type": "泰式",
+    "dist": "高雄市 楠梓區",
+    "price": 350,
+    "tags": [
+      "文青",
+      "米其林推薦",
+      "排隊",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋咖啡",
+    "type": "早午餐",
+    "dist": "屏東縣 麟洛鄉",
+    "price": 200,
+    "tags": [
+      "必比登",
+      "文青",
+      "宵夜",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環便當",
+    "type": "披薩",
+    "dist": "台南市 安平區",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "深夜",
+      "在地",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國咖啡",
+    "type": "居酒屋",
+    "dist": "屏東縣 萬丹鄉",
+    "price": 250,
+    "tags": [
+      "平價",
+      "巷弄",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹居酒屋",
+    "type": "川菜",
+    "dist": "彰化縣 鹿港鎮",
+    "price": 220,
+    "tags": [
+      "辣",
+      "巷弄",
+      "隱藏版",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國牛排壽司",
+    "type": "牛排",
+    "dist": "台南市 七股區",
+    "price": 280,
+    "tags": [
+      "老字號",
+      "約會",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣咖啡",
+    "type": "義大利麵",
+    "dist": "基隆市 中山區",
+    "price": 200,
+    "tags": [
+      "多人聚餐",
+      "隱藏版",
+      "約會",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋火鍋",
+    "type": "拉麵",
+    "dist": "嘉義縣 番路鄉",
+    "price": 280,
+    "tags": [
+      "約會",
+      "濃郁",
+      "平價",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店複合式",
+    "type": "炸雞",
+    "dist": "花蓮縣 吉安鄉",
+    "price": 250,
+    "tags": [
+      "辣",
+      "宵夜",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記複合式",
+    "type": "印度菜",
+    "dist": "高雄市 左營區",
+    "price": 320,
+    "tags": [
+      "排隊",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤拉麵",
+    "type": "牛排",
+    "dist": "桃園市 八德區",
+    "price": 210,
+    "tags": [
+      "CP值高",
+      "外帶",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日港式便當",
+    "type": "港式",
+    "dist": "桃園市 龍潭區",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "在地",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王泰式披薩",
+    "type": "泰式",
+    "dist": "台中市 東區",
+    "price": 320,
+    "tags": [
+      "外帶",
+      "隱藏版",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成小吃",
+    "type": "壽司",
+    "dist": "台南市 永康區",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "老字號",
+      "景觀",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生冰品",
+    "type": "排骨飯",
+    "dist": "台中市 大雅區",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "文青",
+      "必比登",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司豆花",
+    "type": "壽司",
+    "dist": "新竹縣 新豐鄉",
+    "price": 400,
+    "tags": [
+      "素食友善",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店冰品",
+    "type": "手搖飲",
+    "dist": "高雄市 旗津區",
+    "price": 230,
+    "tags": [
+      "米其林推薦",
+      "約會",
+      "打卡",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國牛肉麵",
+    "type": "居酒屋",
+    "dist": "金門縣 烏坵鄉",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "必比登",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日炸雞",
+    "type": "壽司",
+    "dist": "台北市 萬華區",
+    "price": 160,
+    "tags": [
+      "文青",
+      "約會",
+      "在地",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成冰品",
+    "type": "越式",
+    "dist": "苗栗縣 西湖鄉",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "濃郁",
+      "景觀",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日冰品",
+    "type": "雞肉飯",
+    "dist": "嘉義縣 梅山鄉",
+    "price": 400,
+    "tags": [
+      "巷弄",
+      "宵夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館便當",
+    "type": "海鮮",
+    "dist": "連江縣 莒光鄉",
+    "price": 210,
+    "tags": [
+      "外帶",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街合菜",
+    "type": "米糕",
+    "dist": "台南市 永康區",
+    "price": 210,
+    "tags": [
+      "外帶",
+      "在地",
+      "約會",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口食堂",
+    "type": "川菜",
+    "dist": "花蓮縣 光復鄉",
+    "price": 220,
+    "tags": [
+      "辣",
+      "素食友善",
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣壽司豆花",
+    "type": "壽司",
+    "dist": "高雄市 鹽埕區",
+    "price": 250,
+    "tags": [
+      "平價",
+      "辣",
+      "親子",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環披薩",
+    "type": "披薩",
+    "dist": "桃園市 大溪區",
+    "price": 150,
+    "tags": [
+      "宵夜",
+      "景觀",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗燒肉",
+    "type": "排骨飯",
+    "dist": "新北市 三芝區",
+    "price": 220,
+    "tags": [
+      "隱藏版",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日海產",
+    "type": "拉麵",
+    "dist": "高雄市 鼓山區",
+    "price": 210,
+    "tags": [
+      "清爽",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌泰式食堂",
+    "type": "泰式",
+    "dist": "連江縣 北竿鄉",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌火鍋",
+    "type": "排骨飯",
+    "dist": "金門縣 金城鎮",
+    "price": 120,
+    "tags": [
+      "外帶",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣拉麵",
+    "type": "火鍋",
+    "dist": "台南市 東區",
+    "price": 210,
+    "tags": [
+      "老字號",
+      "巷弄",
+      "隱藏版",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康複合式",
+    "type": "蚵仔煎",
+    "dist": "新北市 林口區",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成居酒屋",
+    "type": "雞肉飯",
+    "dist": "台中市 東勢區",
+    "price": 100,
+    "tags": [
+      "親子",
+      "外帶",
+      "辣",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名便當",
+    "type": "蚵仔煎",
+    "dist": "雲林縣 口湖鄉",
+    "price": 280,
+    "tags": [
+      "多人聚餐",
+      "巷弄",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟甜點",
+    "type": "川菜",
+    "dist": "基隆市 七堵區",
+    "price": 250,
+    "tags": [
+      "多人聚餐",
+      "高級",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤火鍋",
+    "type": "港式",
+    "dist": "雲林縣 元長鄉",
+    "price": 200,
+    "tags": [
+      "文青",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環燒肉",
+    "type": "排骨飯",
+    "dist": "嘉義縣 中埔鄉",
+    "price": 230,
+    "tags": [
+      "素食友善",
+      "CP值高",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹牛排",
+    "type": "鵝肉",
+    "dist": "連江縣 莒光鄉",
+    "price": 80,
+    "tags": [
+      "辣",
+      "濃郁",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口便當",
+    "type": "拉麵",
+    "dist": "苗栗縣 苑裡鎮",
+    "price": 150,
+    "tags": [
+      "文青",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日早午餐",
+    "type": "咖哩飯",
+    "dist": "台中市 西屯區",
+    "price": 150,
+    "tags": [
+      "外帶",
+      "平價",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋咖啡",
+    "type": "米糕",
+    "dist": "嘉義縣 義竹鄉",
+    "price": 180,
+    "tags": [
+      "約會",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗炸雞便當",
+    "type": "炸雞",
+    "dist": "台中市 沙鹿區",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "深夜",
+      "打卡",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味食堂",
+    "type": "拉麵",
+    "dist": "台東縣 東河鄉",
+    "price": 300,
+    "tags": [
+      "多人聚餐",
+      "打卡",
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店披薩",
+    "type": "臭豆腐",
+    "dist": "雲林縣 崙背鄉",
+    "price": 120,
+    "tags": [
+      "米其林推薦",
+      "CP值高",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 頭屋鄉",
+    "price": 80,
+    "tags": [
+      "深夜",
+      "景觀",
+      "老字號",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康拉麵",
+    "type": "咖哩飯",
+    "dist": "屏東縣 高樹鄉",
+    "price": 250,
+    "tags": [
+      "巷弄",
+      "約會",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中印度菜炸雞",
+    "type": "印度菜",
+    "dist": "新北市 五股區",
+    "price": 280,
+    "tags": [
+      "打卡",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂米糕火鍋",
+    "type": "米糕",
+    "dist": "台南市 新化區",
+    "price": 100,
+    "tags": [
+      "巷弄",
+      "素食友善",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店壽司",
+    "type": "牛排",
+    "dist": "宜蘭縣 冬山鄉",
+    "price": 280,
+    "tags": [
+      "多人聚餐",
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名排骨飯海產",
+    "type": "排骨飯",
+    "dist": "彰化縣 北斗鎮",
+    "price": 130,
+    "tags": [
+      "排隊",
+      "CP值高",
+      "辣",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟早午餐",
+    "type": "炸雞",
+    "dist": "台中市 北區",
+    "price": 200,
+    "tags": [
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店義大利麵合菜",
+    "type": "義大利麵",
+    "dist": "高雄市 鳥松區",
+    "price": 150,
+    "tags": [
+      "清爽",
+      "宵夜",
+      "約會",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記拉麵",
+    "type": "剉冰",
+    "dist": "台東縣 卑南鄉",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "清爽",
+      "在地",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中早午餐",
+    "type": "早午餐",
+    "dist": "高雄市 阿蓮區",
+    "price": 320,
+    "tags": [
+      "辣",
+      "排隊",
+      "文青",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成泰式炸雞",
+    "type": "泰式",
+    "dist": "彰化縣 秀水鄉",
+    "price": 280,
+    "tags": [
+      "多人聚餐",
+      "濃郁",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生麵",
+    "type": "火鍋",
+    "dist": "宜蘭縣 蘇澳鎮",
+    "price": 380,
+    "tags": [
+      "文青",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣越式炸雞",
+    "type": "越式",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街披薩",
+    "type": "甜點",
+    "dist": "台南市 歸仁區",
+    "price": 80,
+    "tags": [
+      "景觀",
+      "素食友善",
+      "深夜",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記越式甜點",
+    "type": "越式",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 220,
+    "tags": [
+      "景觀",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記越式牛肉麵",
+    "type": "越式",
+    "dist": "連江縣 南竿鄉",
+    "price": 180,
+    "tags": [
+      "多人聚餐",
+      "平價",
+      "打卡",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下排骨飯麵",
+    "type": "排骨飯",
+    "dist": "新竹市 北區",
+    "price": 160,
+    "tags": [
+      "濃郁",
+      "宵夜",
+      "多人聚餐",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名居酒屋",
+    "type": "剉冰",
+    "dist": "苗栗縣 卓蘭鎮",
+    "price": 210,
+    "tags": [
+      "宵夜",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口海產",
+    "type": "川菜",
+    "dist": "台東縣 關山鎮",
+    "price": 130,
+    "tags": [
+      "老字號",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂手搖飲咖啡",
+    "type": "手搖飲",
+    "dist": "新竹縣 芎林鄉",
+    "price": 150,
+    "tags": [
+      "隱藏版",
+      "排隊",
+      "米其林推薦",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛排咖啡",
+    "type": "牛排",
+    "dist": "桃園市 龜山區",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "多人聚餐",
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂燒肉",
+    "type": "米糕",
+    "dist": "彰化縣 彰化市",
+    "price": 320,
+    "tags": [
+      "隱藏版",
+      "打卡",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣早午餐",
+    "type": "披薩",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 130,
+    "tags": [
+      "隱藏版",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日豆花",
+    "type": "雞肉飯",
+    "dist": "高雄市 彌陀區",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中炸雞",
+    "type": "壽司",
+    "dist": "台北市 萬華區",
+    "price": 150,
+    "tags": [
+      "老字號",
+      "打卡",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌麵館",
+    "type": "牛肉麵",
+    "dist": "基隆市 七堵區",
+    "price": 230,
+    "tags": [
+      "文青",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口冰品",
+    "type": "川菜",
+    "dist": "雲林縣 斗六市",
+    "price": 230,
+    "tags": [
+      "平價",
+      "宵夜",
+      "高級",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生咖啡合菜",
+    "type": "咖啡",
+    "dist": "宜蘭縣 五結鄉",
+    "price": 80,
+    "tags": [
+      "宵夜",
+      "約會",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日麵館",
+    "type": "排骨飯",
+    "dist": "台北市 士林區",
+    "price": 130,
+    "tags": [
+      "景觀",
+      "多人聚餐",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋食堂",
+    "type": "米糕",
+    "dist": "南投縣 水里鄉",
+    "price": 250,
+    "tags": [
+      "深夜",
+      "平價",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記披薩",
+    "type": "豆花",
+    "dist": "台中市 大安區",
+    "price": 100,
+    "tags": [
+      "平價",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生小吃",
+    "type": "臭豆腐",
+    "dist": "新北市 深坑區",
+    "price": 200,
+    "tags": [
+      "素食友善",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂甜點",
+    "type": "早午餐",
+    "dist": "嘉義縣 梅山鄉",
+    "price": 210,
+    "tags": [
+      "平價",
+      "米其林推薦",
+      "必比登",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環居酒屋",
+    "type": "居酒屋",
+    "dist": "金門縣 烏坵鄉",
+    "price": 230,
+    "tags": [
+      "素食友善",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街複合式",
+    "type": "鵝肉",
+    "dist": "宜蘭縣 壯圍鄉",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野甜點",
+    "type": "川菜",
+    "dist": "南投縣 集集鎮",
+    "price": 160,
+    "tags": [
+      "外帶",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂食堂",
+    "type": "咖啡",
+    "dist": "高雄市 梓官區",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "宵夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街咖啡",
+    "type": "泰式",
+    "dist": "宜蘭縣 羅東鎮",
+    "price": 200,
+    "tags": [
+      "辣",
+      "CP值高",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗港式食堂",
+    "type": "港式",
+    "dist": "屏東縣 東港鎮",
+    "price": 160,
+    "tags": [
+      "景觀",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌冰品",
+    "type": "排骨飯",
+    "dist": "宜蘭縣 壯圍鄉",
+    "price": 180,
+    "tags": [
+      "景觀",
+      "宵夜",
+      "辣",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華排骨飯麵",
+    "type": "排骨飯",
+    "dist": "南投縣 中寮鄉",
+    "price": 100,
+    "tags": [
+      "宵夜",
+      "文青",
+      "高級",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹火鍋",
+    "type": "豆花",
+    "dist": "台南市 北區",
+    "price": 100,
+    "tags": [
+      "清爽",
+      "約會",
+      "宵夜",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王豆花",
+    "type": "川菜",
+    "dist": "高雄市 大社區",
+    "price": 130,
+    "tags": [
+      "老字號",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生牛排",
+    "type": "無菜單料理",
+    "dist": "連江縣 莒光鄉",
+    "price": 250,
+    "tags": [
+      "巷弄",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康火鍋",
+    "type": "川菜",
+    "dist": "苗栗縣 頭份市",
+    "price": 80,
+    "tags": [
+      "辣",
+      "排隊",
+      "CP值高",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下麵館",
+    "type": "排骨飯",
+    "dist": "高雄市 大社區",
+    "price": 320,
+    "tags": [
+      "文青",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記披薩牛肉麵",
+    "type": "披薩",
+    "dist": "台南市 七股區",
+    "price": 230,
+    "tags": [
+      "在地",
+      "約會",
+      "打卡",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康手搖飲海產",
+    "type": "手搖飲",
+    "dist": "高雄市 鳳山區",
+    "price": 180,
+    "tags": [
+      "打卡",
+      "文青",
+      "外帶",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口牛肉麵",
+    "type": "越式",
+    "dist": "南投縣 埔里鎮",
+    "price": 230,
+    "tags": [
+      "宵夜",
+      "CP值高",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名臭豆腐牛排",
+    "type": "臭豆腐",
+    "dist": "桃園市 新屋區",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王豆花",
+    "type": "客家菜",
+    "dist": "南投縣 埔里鎮",
+    "price": 200,
+    "tags": [
+      "米其林推薦",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中川菜海產",
+    "type": "川菜",
+    "dist": "台東縣 池上鄉",
+    "price": 160,
+    "tags": [
+      "必比登",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日豆花火鍋",
+    "type": "豆花",
+    "dist": "雲林縣 臺西鄉",
+    "price": 250,
+    "tags": [
+      "在地",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌牛排",
+    "type": "豆花",
+    "dist": "台東縣 東河鄉",
+    "price": 250,
+    "tags": [
+      "必比登",
+      "老字號",
+      "親子",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康炸雞早午餐",
+    "type": "炸雞",
+    "dist": "澎湖縣 七美鄉",
+    "price": 150,
+    "tags": [
+      "高級",
+      "外帶",
+      "宵夜",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名炸雞",
+    "type": "早午餐",
+    "dist": "新竹縣 竹北市",
+    "price": 80,
+    "tags": [
+      "文青",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋燒肉食堂",
+    "type": "燒肉",
+    "dist": "苗栗縣 後龍鎮",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "外帶",
+      "必比登",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口牛排",
+    "type": "義大利麵",
+    "dist": "台南市 安南區",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "平價",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟豆花",
+    "type": "早午餐",
+    "dist": "桃園市 楊梅區",
+    "price": 80,
+    "tags": [
+      "在地",
+      "排隊",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌炸雞",
+    "type": "咖啡",
+    "dist": "金門縣 金湖鎮",
+    "price": 280,
+    "tags": [
+      "高級",
+      "隱藏版",
+      "平價",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街滷肉飯燒肉",
+    "type": "滷肉飯",
+    "dist": "台南市 麻豆區",
+    "price": 130,
+    "tags": [
+      "必比登",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中剉冰小吃",
+    "type": "剉冰",
+    "dist": "台北市 文山區",
+    "price": 200,
+    "tags": [
+      "宵夜",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗義大利麵拉麵",
+    "type": "義大利麵",
+    "dist": "台中市 太平區",
+    "price": 130,
+    "tags": [
+      "排隊",
+      "打卡",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成拉麵",
+    "type": "印度菜",
+    "dist": "新竹縣 峨眉鄉",
+    "price": 160,
+    "tags": [
+      "巷弄",
+      "CP值高",
+      "平價",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹拉麵",
+    "type": "印度菜",
+    "dist": "屏東縣 里港鄉",
+    "price": 160,
+    "tags": [
+      "平價",
+      "隱藏版",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成居酒屋",
+    "type": "米糕",
+    "dist": "苗栗縣 西湖鄉",
+    "price": 160,
+    "tags": [
+      "文青",
+      "必比登",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟牛肉麵早午餐",
+    "type": "牛肉麵",
+    "dist": "台東縣 池上鄉",
+    "price": 80,
+    "tags": [
+      "必比登",
+      "深夜",
+      "米其林推薦",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野豆花",
+    "type": "無菜單料理",
+    "dist": "高雄市 美濃區",
+    "price": 180,
+    "tags": [
+      "文青",
+      "深夜",
+      "老字號",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成披薩",
+    "type": "手搖飲",
+    "dist": "苗栗縣 大湖鄉",
+    "price": 320,
+    "tags": [
+      "必比登",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味咖哩飯甜點",
+    "type": "咖哩飯",
+    "dist": "基隆市 安樂區",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館便當",
+    "type": "臭豆腐",
+    "dist": "宜蘭縣 南澳鄉",
+    "price": 180,
+    "tags": [
+      "辣",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國牛排",
+    "type": "蚵仔煎",
+    "dist": "桃園市 桃園區",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "辣",
+      "深夜",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟早午餐",
+    "type": "小籠包",
+    "dist": "嘉義縣 中埔鄉",
+    "price": 130,
+    "tags": [
+      "辣",
+      "清爽",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店咖啡",
+    "type": "甜點",
+    "dist": "屏東縣 內埔鄉",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "老字號",
+      "隱藏版",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記麵館",
+    "type": "越式",
+    "dist": "彰化縣 社頭鄉",
+    "price": 300,
+    "tags": [
+      "濃郁",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生麵館",
+    "type": "早午餐",
+    "dist": "雲林縣 土庫鎮",
+    "price": 280,
+    "tags": [
+      "高級",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街複合式",
+    "type": "蚵仔煎",
+    "dist": "新竹縣 湖口鄉",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "必比登",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗便當",
+    "type": "剉冰",
+    "dist": "澎湖縣 七美鄉",
+    "price": 180,
+    "tags": [
+      "在地",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生便當",
+    "type": "鵝肉",
+    "dist": "彰化縣 永靖鄉",
+    "price": 130,
+    "tags": [
+      "平價",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日燒肉",
+    "type": "牛肉麵",
+    "dist": "台中市 東勢區",
+    "price": 130,
+    "tags": [
+      "平價",
+      "親子",
+      "隱藏版",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康牛排",
+    "type": "居酒屋",
+    "dist": "台北市 大安區",
+    "price": 150,
+    "tags": [
+      "高級",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生居酒屋牛排",
+    "type": "居酒屋",
+    "dist": "南投縣 名間鄉",
+    "price": 210,
+    "tags": [
+      "素食友善",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味海產",
+    "type": "無菜單料理",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 210,
+    "tags": [
+      "清爽",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日壽司",
+    "type": "港式",
+    "dist": "台東縣 池上鄉",
+    "price": 320,
+    "tags": [
+      "CP值高",
+      "景觀",
+      "在地",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中合菜",
+    "type": "炸雞",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 120,
+    "tags": [
+      "平價",
+      "景觀",
+      "米其林推薦",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤火鍋",
+    "type": "排骨飯",
+    "dist": "台中市 石岡區",
+    "price": 80,
+    "tags": [
+      "景觀",
+      "排隊",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館泰式冰品",
+    "type": "泰式",
+    "dist": "新北市 三芝區",
+    "price": 250,
+    "tags": [
+      "外帶",
+      "深夜",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味早午餐",
+    "type": "客家菜",
+    "dist": "澎湖縣 馬公市",
+    "price": 380,
+    "tags": [
+      "隱藏版",
+      "宵夜",
+      "濃郁",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街便當",
+    "type": "越式",
+    "dist": "雲林縣 口湖鄉",
+    "price": 150,
+    "tags": [
+      "親子",
+      "CP值高",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王剉冰炸雞",
+    "type": "剉冰",
+    "dist": "澎湖縣 馬公市",
+    "price": 250,
+    "tags": [
+      "外帶",
+      "在地",
+      "CP值高",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館麵",
+    "type": "居酒屋",
+    "dist": "嘉義縣 布袋鎮",
+    "price": 280,
+    "tags": [
+      "巷弄",
+      "必比登",
+      "景觀",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂麵館",
+    "type": "排骨飯",
+    "dist": "新竹縣 關西鎮",
+    "price": 280,
+    "tags": [
+      "濃郁",
+      "親子",
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華冰品",
+    "type": "泰式",
+    "dist": "屏東縣 新園鄉",
+    "price": 80,
+    "tags": [
+      "清爽",
+      "多人聚餐",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣港式食堂",
+    "type": "港式",
+    "dist": "花蓮縣 吉安鄉",
+    "price": 210,
+    "tags": [
+      "老字號",
+      "清爽",
+      "景觀",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記早午餐",
+    "type": "義大利麵",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 320,
+    "tags": [
+      "多人聚餐",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味咖啡",
+    "type": "燒肉",
+    "dist": "彰化縣 和美鎮",
+    "price": 210,
+    "tags": [
+      "在地",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日壽司",
+    "type": "甜點",
+    "dist": "彰化縣 田尾鄉",
+    "price": 280,
+    "tags": [
+      "平價",
+      "景觀",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康無菜單料理炸雞",
+    "type": "無菜單料理",
+    "dist": "台東縣 東河鄉",
+    "price": 130,
+    "tags": [
+      "外帶",
+      "文青",
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成川菜咖啡",
+    "type": "川菜",
+    "dist": "基隆市 七堵區",
+    "price": 300,
+    "tags": [
+      "必比登",
+      "清爽",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口麵館",
+    "type": "剉冰",
+    "dist": "基隆市 中正區",
+    "price": 120,
+    "tags": [
+      "約會",
+      "老字號",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華甜點",
+    "type": "居酒屋",
+    "dist": "高雄市 橋頭區",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "平價",
+      "素食友善",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口港式壽司",
+    "type": "港式",
+    "dist": "花蓮縣 光復鄉",
+    "price": 130,
+    "tags": [
+      "打卡",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康居酒屋",
+    "type": "排骨飯",
+    "dist": "彰化縣 伸港鄉",
+    "price": 160,
+    "tags": [
+      "必比登",
+      "CP值高",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店咖哩飯麵館",
+    "type": "咖哩飯",
+    "dist": "雲林縣 口湖鄉",
+    "price": 180,
+    "tags": [
+      "必比登",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日臭豆腐早午餐",
+    "type": "臭豆腐",
+    "dist": "新北市 瑞芳區",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館義大利麵居酒屋",
+    "type": "義大利麵",
+    "dist": "高雄市 阿蓮區",
+    "price": 150,
+    "tags": [
+      "必比登",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記麵",
+    "type": "小籠包",
+    "dist": "基隆市 信義區",
+    "price": 80,
+    "tags": [
+      "排隊",
+      "辣",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國甜點",
+    "type": "壽司",
+    "dist": "嘉義縣 民雄鄉",
+    "price": 80,
+    "tags": [
+      "清爽",
+      "隱藏版",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣咖啡",
+    "type": "排骨飯",
+    "dist": "台北市 南港區",
+    "price": 230,
+    "tags": [
+      "老字號",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹米糕複合式",
+    "type": "米糕",
+    "dist": "台南市 北區",
+    "price": 160,
+    "tags": [
+      "多人聚餐",
+      "排隊",
+      "親子",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館海鮮甜點",
+    "type": "海鮮",
+    "dist": "台南市 善化區",
+    "price": 320,
+    "tags": [
+      "打卡",
+      "在地",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王麵",
+    "type": "燒肉",
+    "dist": "花蓮縣 玉里鎮",
+    "price": 120,
+    "tags": [
+      "必比登",
+      "景觀",
+      "在地",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口複合式",
+    "type": "雞肉飯",
+    "dist": "台東縣 太麻里鄉",
+    "price": 180,
+    "tags": [
+      "巷弄",
+      "宵夜",
+      "在地",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日蚵仔煎火鍋",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 230,
+    "tags": [
+      "親子",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟滷肉飯炸雞",
+    "type": "滷肉飯",
+    "dist": "基隆市 信義區",
+    "price": 320,
+    "tags": [
+      "文青",
+      "親子",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日燒肉",
+    "type": "印度菜",
+    "dist": "南投縣 名間鄉",
+    "price": 320,
+    "tags": [
+      "宵夜",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味排骨飯食堂",
+    "type": "排骨飯",
+    "dist": "台中市 太平區",
+    "price": 180,
+    "tags": [
+      "宵夜",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣冰品",
+    "type": "炸雞",
+    "dist": "桃園市 龍潭區",
+    "price": 150,
+    "tags": [
+      "文青",
+      "平價",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生麵館",
+    "type": "排骨飯",
+    "dist": "新竹市 東區",
+    "price": 300,
+    "tags": [
+      "平價",
+      "辣",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街炸雞",
+    "type": "牛排",
+    "dist": "台東縣 鹿野鄉",
+    "price": 130,
+    "tags": [
+      "隱藏版",
+      "巷弄",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味牛肉麵",
+    "type": "滷肉飯",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 100,
+    "tags": [
+      "必比登",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂燒肉壽司",
+    "type": "燒肉",
+    "dist": "南投縣 名間鄉",
+    "price": 280,
+    "tags": [
+      "清爽",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日滷肉飯火鍋",
+    "type": "滷肉飯",
+    "dist": "台中市 梧棲區",
+    "price": 150,
+    "tags": [
+      "巷弄",
+      "清爽",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣牛排",
+    "type": "燒肉",
+    "dist": "花蓮縣 新城鄉",
+    "price": 120,
+    "tags": [
+      "必比登",
+      "隱藏版",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛排",
+    "type": "滷肉飯",
+    "dist": "彰化縣 花壇鄉",
+    "price": 400,
+    "tags": [
+      "深夜",
+      "打卡",
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華合菜",
+    "type": "拉麵",
+    "dist": "台南市 鹽水區",
+    "price": 200,
+    "tags": [
+      "CP值高",
+      "米其林推薦",
+      "在地",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味便當",
+    "type": "泰式",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 350,
+    "tags": [
+      "打卡",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗炸雞",
+    "type": "咖啡",
+    "dist": "屏東縣 麟洛鄉",
+    "price": 120,
+    "tags": [
+      "在地",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味合菜",
+    "type": "壽司",
+    "dist": "新竹縣 新埔鎮",
+    "price": 320,
+    "tags": [
+      "文青",
+      "米其林推薦",
+      "約會",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康甜點",
+    "type": "泰式",
+    "dist": "桃園市 觀音區",
+    "price": 150,
+    "tags": [
+      "清爽",
+      "景觀",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟義大利麵冰品",
+    "type": "義大利麵",
+    "dist": "新竹縣 北埔鄉",
+    "price": 100,
+    "tags": [
+      "CP值高",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華炸雞",
+    "type": "臭豆腐",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 180,
+    "tags": [
+      "隱藏版",
+      "在地",
+      "米其林推薦",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館冰品",
+    "type": "泰式",
+    "dist": "彰化縣 線西鄉",
+    "price": 230,
+    "tags": [
+      "辣",
+      "親子",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤麵",
+    "type": "居酒屋",
+    "dist": "台南市 鹽水區",
+    "price": 450,
+    "tags": [
+      "高級",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口牛肉麵",
+    "type": "滷肉飯",
+    "dist": "台東縣 成功鎮",
+    "price": 120,
+    "tags": [
+      "文青",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環冰品",
+    "type": "早午餐",
+    "dist": "屏東縣 里港鄉",
+    "price": 250,
+    "tags": [
+      "辣",
+      "文青",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館牛肉麵",
+    "type": "港式",
+    "dist": "高雄市 美濃區",
+    "price": 350,
+    "tags": [
+      "景觀",
+      "老字號",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗甜點",
+    "type": "剉冰",
+    "dist": "苗栗縣 銅鑼鄉",
+    "price": 180,
+    "tags": [
+      "文青",
+      "在地",
+      "高級",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣咖啡",
+    "type": "火鍋",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 300,
+    "tags": [
+      "排隊",
+      "隱藏版",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店披薩",
+    "type": "火鍋",
+    "dist": "台中市 龍井區",
+    "price": 320,
+    "tags": [
+      "親子",
+      "隱藏版",
+      "約會",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口複合式",
+    "type": "咖哩飯",
+    "dist": "雲林縣 臺西鄉",
+    "price": 230,
+    "tags": [
+      "景觀",
+      "約會",
+      "在地",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌居酒屋",
+    "type": "牛肉麵",
+    "dist": "屏東縣 南州鄉",
+    "price": 150,
+    "tags": [
+      "必比登",
+      "素食友善",
+      "CP值高",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康早午餐早午餐",
+    "type": "早午餐",
+    "dist": "台中市 大肚區",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "素食友善",
+      "CP值高",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌壽司",
+    "type": "港式",
+    "dist": "宜蘭縣 冬山鄉",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "濃郁",
+      "景觀",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店披薩",
+    "type": "義大利麵",
+    "dist": "新北市 中和區",
+    "price": 120,
+    "tags": [
+      "多人聚餐",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛肉麵",
+    "type": "炸雞",
+    "dist": "台北市 中正區",
+    "price": 200,
+    "tags": [
+      "約會",
+      "隱藏版",
+      "米其林推薦",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記手搖飲合菜",
+    "type": "手搖飲",
+    "dist": "新北市 永和區",
+    "price": 120,
+    "tags": [
+      "巷弄",
+      "CP值高",
+      "老字號",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下麵館",
+    "type": "燒肉",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 160,
+    "tags": [
+      "米其林推薦",
+      "外帶",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華火鍋",
+    "type": "牛肉麵",
+    "dist": "苗栗縣 公館鄉",
+    "price": 120,
+    "tags": [
+      "老字號",
+      "深夜",
+      "文青",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華拉麵",
+    "type": "川菜",
+    "dist": "苗栗縣 卓蘭鎮",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "素食友善",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環披薩",
+    "type": "無菜單料理",
+    "dist": "新北市 深坑區",
+    "price": 160,
+    "tags": [
+      "排隊",
+      "CP值高",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日燒肉",
+    "type": "炸雞",
+    "dist": "桃園市 復興區",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生冰品",
+    "type": "咖啡",
+    "dist": "彰化縣 永靖鄉",
+    "price": 120,
+    "tags": [
+      "親子",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華早午餐",
+    "type": "港式",
+    "dist": "台北市 北投區",
+    "price": 180,
+    "tags": [
+      "巷弄",
+      "CP值高",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成壽司",
+    "type": "披薩",
+    "dist": "嘉義縣 新港鄉",
+    "price": 120,
+    "tags": [
+      "清爽",
+      "辣",
+      "宵夜",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司",
+    "type": "滷肉飯",
+    "dist": "高雄市 美濃區",
+    "price": 280,
+    "tags": [
+      "高級",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日火鍋",
+    "type": "壽司",
+    "dist": "宜蘭縣 冬山鄉",
+    "price": 280,
+    "tags": [
+      "外帶",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋麵",
+    "type": "壽司",
+    "dist": "南投縣 魚池鄉",
+    "price": 280,
+    "tags": [
+      "打卡",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日早午餐",
+    "type": "滷肉飯",
+    "dist": "台南市 南區",
+    "price": 200,
+    "tags": [
+      "宵夜",
+      "隱藏版",
+      "平價",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口牛肉麵",
+    "type": "豆花",
+    "dist": "澎湖縣 西嶼鄉",
+    "price": 320,
+    "tags": [
+      "排隊",
+      "平價",
+      "清爽",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣甜點",
+    "type": "無菜單料理",
+    "dist": "台北市 士林區",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "宵夜",
+      "深夜",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂冰品",
+    "type": "越式",
+    "dist": "澎湖縣 望安鄉",
+    "price": 300,
+    "tags": [
+      "打卡",
+      "必比登",
+      "約會",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華甜點",
+    "type": "排骨飯",
+    "dist": "新竹縣 峨眉鄉",
+    "price": 210,
+    "tags": [
+      "外帶",
+      "打卡",
+      "平價",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館披薩",
+    "type": "炸雞",
+    "dist": "台中市 大甲區",
+    "price": 180,
+    "tags": [
+      "素食友善",
+      "打卡",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗剉冰披薩",
+    "type": "剉冰",
+    "dist": "高雄市 湖內區",
+    "price": 120,
+    "tags": [
+      "在地",
+      "高級",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣火鍋",
+    "type": "咖啡",
+    "dist": "台北市 文山區",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "濃郁",
+      "宵夜",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口燒肉",
+    "type": "牛肉麵",
+    "dist": "新北市 林口區",
+    "price": 220,
+    "tags": [
+      "在地",
+      "景觀",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名甜點",
+    "type": "鵝肉",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 130,
+    "tags": [
+      "濃郁",
+      "景觀",
+      "多人聚餐",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日甜點",
+    "type": "印度菜",
+    "dist": "雲林縣 口湖鄉",
+    "price": 120,
+    "tags": [
+      "景觀",
+      "素食友善",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味牛排",
+    "type": "甜點",
+    "dist": "高雄市 美濃區",
+    "price": 250,
+    "tags": [
+      "辣",
+      "約會",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記炸雞",
+    "type": "雞肉飯",
+    "dist": "台北市 大同區",
+    "price": 150,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味海產",
+    "type": "炸雞",
+    "dist": "彰化縣 福興鄉",
+    "price": 210,
+    "tags": [
+      "高級",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌客家菜燒肉",
+    "type": "客家菜",
+    "dist": "澎湖縣 七美鄉",
+    "price": 180,
+    "tags": [
+      "巷弄",
+      "宵夜",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華便當",
+    "type": "排骨飯",
+    "dist": "高雄市 橋頭區",
+    "price": 120,
+    "tags": [
+      "打卡",
+      "老字號",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名複合式",
+    "type": "甜點",
+    "dist": "新北市 石門區",
+    "price": 250,
+    "tags": [
+      "素食友善",
+      "約會",
+      "必比登",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王甜點",
+    "type": "客家菜",
+    "dist": "花蓮縣 新城鄉",
+    "price": 150,
+    "tags": [
+      "巷弄",
+      "平價",
+      "景觀",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國居酒屋",
+    "type": "印度菜",
+    "dist": "高雄市 田寮區",
+    "price": 400,
+    "tags": [
+      "隱藏版",
+      "米其林推薦",
+      "宵夜",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華臭豆腐便當",
+    "type": "臭豆腐",
+    "dist": "宜蘭縣 壯圍鄉",
+    "price": 160,
+    "tags": [
+      "濃郁",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹合菜",
+    "type": "海鮮",
+    "dist": "彰化縣 和美鎮",
+    "price": 350,
+    "tags": [
+      "隱藏版",
+      "在地",
+      "辣",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口冰品",
+    "type": "火鍋",
+    "dist": "新北市 永和區",
+    "price": 100,
+    "tags": [
+      "清爽",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環居酒屋豆花",
+    "type": "居酒屋",
+    "dist": "高雄市 大社區",
+    "price": 400,
+    "tags": [
+      "必比登",
+      "隱藏版",
+      "打卡",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國川菜牛排",
+    "type": "川菜",
+    "dist": "高雄市 永安區",
+    "price": 250,
+    "tags": [
+      "濃郁",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹甜點",
+    "type": "豆花",
+    "dist": "屏東縣 內埔鄉",
+    "price": 100,
+    "tags": [
+      "平價",
+      "素食友善",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生印度菜炸雞",
+    "type": "印度菜",
+    "dist": "台東縣 池上鄉",
+    "price": 80,
+    "tags": [
+      "高級",
+      "景觀",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康複合式",
+    "type": "壽司",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 320,
+    "tags": [
+      "外帶",
+      "景觀",
+      "在地",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣義大利麵壽司",
+    "type": "義大利麵",
+    "dist": "台中市 東勢區",
+    "price": 180,
+    "tags": [
+      "深夜",
+      "老字號",
+      "濃郁",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口炸雞",
+    "type": "咖啡",
+    "dist": "南投縣 國姓鄉",
+    "price": 220,
+    "tags": [
+      "必比登",
+      "巷弄",
+      "米其林推薦",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成牛肉麵",
+    "type": "港式",
+    "dist": "基隆市 中山區",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "深夜",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋拉麵",
+    "type": "越式",
+    "dist": "新竹縣 關西鎮",
+    "price": 130,
+    "tags": [
+      "宵夜",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣火鍋",
+    "type": "海鮮",
+    "dist": "新竹市 東區",
+    "price": 160,
+    "tags": [
+      "親子",
+      "宵夜",
+      "多人聚餐",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗滷肉飯甜點",
+    "type": "滷肉飯",
+    "dist": "雲林縣 虎尾鎮",
+    "price": 250,
+    "tags": [
+      "排隊",
+      "打卡",
+      "必比登",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街滷肉飯炸雞",
+    "type": "滷肉飯",
+    "dist": "澎湖縣 馬公市",
+    "price": 80,
+    "tags": [
+      "在地",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口合菜",
+    "type": "咖啡",
+    "dist": "雲林縣 臺西鄉",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "平價",
+      "在地",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味拉麵燒肉",
+    "type": "拉麵",
+    "dist": "嘉義縣 水上鄉",
+    "price": 280,
+    "tags": [
+      "景觀",
+      "平價",
+      "宵夜",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王炸雞",
+    "type": "海鮮",
+    "dist": "新北市 新莊區",
+    "price": 160,
+    "tags": [
+      "必比登",
+      "辣",
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華早午餐",
+    "type": "小籠包",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 180,
+    "tags": [
+      "在地",
+      "隱藏版",
+      "多人聚餐",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟冰品",
+    "type": "雞肉飯",
+    "dist": "嘉義縣 大林鎮",
+    "price": 280,
+    "tags": [
+      "必比登",
+      "CP值高",
+      "濃郁",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口食堂",
+    "type": "海鮮",
+    "dist": "彰化縣 鹿港鎮",
+    "price": 120,
+    "tags": [
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂壽司",
+    "type": "無菜單料理",
+    "dist": "南投縣 中寮鄉",
+    "price": 450,
+    "tags": [
+      "多人聚餐",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口火鍋",
+    "type": "甜點",
+    "dist": "新竹縣 峨眉鄉",
+    "price": 120,
+    "tags": [
+      "清爽",
+      "巷弄",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味甜點燒肉",
+    "type": "甜點",
+    "dist": "台北市 文山區",
+    "price": 80,
+    "tags": [
+      "文青",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹雞肉飯拉麵",
+    "type": "雞肉飯",
+    "dist": "台東縣 太麻里鄉",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "多人聚餐",
+      "文青",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗剉冰小吃",
+    "type": "剉冰",
+    "dist": "桃園市 大園區",
+    "price": 130,
+    "tags": [
+      "高級",
+      "辣",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤早午餐",
+    "type": "客家菜",
+    "dist": "高雄市 橋頭區",
+    "price": 250,
+    "tags": [
+      "高級",
+      "在地",
+      "約會",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛排",
+    "type": "泰式",
+    "dist": "新竹縣 五峰鄉",
+    "price": 210,
+    "tags": [
+      "隱藏版",
+      "約會",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣冰品",
+    "type": "臭豆腐",
+    "dist": "雲林縣 四湖鄉",
+    "price": 220,
+    "tags": [
+      "宵夜",
+      "隱藏版",
+      "親子",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記火鍋",
+    "type": "滷肉飯",
+    "dist": "桃園市 平鎮區",
+    "price": 230,
+    "tags": [
+      "文青",
+      "巷弄",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日豆花",
+    "type": "蚵仔煎",
+    "dist": "台北市 文山區",
+    "price": 200,
+    "tags": [
+      "在地",
+      "平價",
+      "約會",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華豆花",
+    "type": "咖哩飯",
+    "dist": "新北市 深坑區",
+    "price": 320,
+    "tags": [
+      "文青",
+      "老字號",
+      "排隊",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗火鍋複合式",
+    "type": "火鍋",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 100,
+    "tags": [
+      "老字號",
+      "多人聚餐",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日便當",
+    "type": "港式",
+    "dist": "台中市 沙鹿區",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "在地",
+      "宵夜",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名甜點",
+    "type": "川菜",
+    "dist": "基隆市 信義區",
+    "price": 250,
+    "tags": [
+      "深夜",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌咖啡",
+    "type": "炸雞",
+    "dist": "彰化縣 線西鄉",
+    "price": 230,
+    "tags": [
+      "景觀",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口雞肉飯拉麵",
+    "type": "雞肉飯",
+    "dist": "南投縣 國姓鄉",
+    "price": 250,
+    "tags": [
+      "高級",
+      "CP值高",
+      "親子",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華壽司",
+    "type": "牛肉麵",
+    "dist": "彰化縣 彰化市",
+    "price": 320,
+    "tags": [
+      "米其林推薦",
+      "打卡",
+      "清爽",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記麵館",
+    "type": "越式",
+    "dist": "金門縣 金沙鎮",
+    "price": 210,
+    "tags": [
+      "外帶",
+      "米其林推薦",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店火鍋",
+    "type": "小籠包",
+    "dist": "高雄市 旗山區",
+    "price": 250,
+    "tags": [
+      "素食友善",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣麵",
+    "type": "炸雞",
+    "dist": "南投縣 集集鎮",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "濃郁",
+      "深夜",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌拉麵",
+    "type": "滷肉飯",
+    "dist": "高雄市 苓雅區",
+    "price": 120,
+    "tags": [
+      "素食友善",
+      "濃郁",
+      "巷弄",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環小吃",
+    "type": "鵝肉",
+    "dist": "苗栗縣 苑裡鎮",
+    "price": 80,
+    "tags": [
+      "親子",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中豆花早午餐",
+    "type": "豆花",
+    "dist": "高雄市 左營區",
+    "price": 150,
+    "tags": [
+      "高級",
+      "在地",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂披薩",
+    "type": "港式",
+    "dist": "高雄市 楠梓區",
+    "price": 320,
+    "tags": [
+      "巷弄",
+      "宵夜",
+      "濃郁",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口冰品",
+    "type": "小籠包",
+    "dist": "桃園市 蘆竹區",
+    "price": 300,
+    "tags": [
+      "平價",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名拉麵",
+    "type": "米糕",
+    "dist": "連江縣 南竿鄉",
+    "price": 180,
+    "tags": [
+      "辣",
+      "打卡",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟甜點",
+    "type": "港式",
+    "dist": "台南市 安平區",
+    "price": 160,
+    "tags": [
+      "文青",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環牛排",
+    "type": "海鮮",
+    "dist": "新北市 泰山區",
+    "price": 280,
+    "tags": [
+      "辣",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中炸雞",
+    "type": "義大利麵",
+    "dist": "台南市 仁德區",
+    "price": 220,
+    "tags": [
+      "清爽",
+      "高級",
+      "隱藏版",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟牛排",
+    "type": "剉冰",
+    "dist": "高雄市 苓雅區",
+    "price": 160,
+    "tags": [
+      "在地",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味居酒屋",
+    "type": "剉冰",
+    "dist": "台北市 大同區",
+    "price": 220,
+    "tags": [
+      "平價",
+      "打卡",
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康拉麵",
+    "type": "臭豆腐",
+    "dist": "宜蘭縣 頭城鎮",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日麵",
+    "type": "鵝肉",
+    "dist": "苗栗縣 頭屋鄉",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "多人聚餐",
+      "排隊",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味海鮮炸雞",
+    "type": "海鮮",
+    "dist": "高雄市 前鎮區",
+    "price": 300,
+    "tags": [
+      "親子",
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環食堂",
+    "type": "泰式",
+    "dist": "彰化縣 線西鄉",
+    "price": 200,
+    "tags": [
+      "宵夜",
+      "高級",
+      "平價",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹雞肉飯咖啡",
+    "type": "雞肉飯",
+    "dist": "新北市 永和區",
+    "price": 300,
+    "tags": [
+      "平價",
+      "景觀",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記牛肉麵",
+    "type": "小籠包",
+    "dist": "台中市 大肚區",
+    "price": 200,
+    "tags": [
+      "巷弄",
+      "親子",
+      "高級",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌拉麵",
+    "type": "剉冰",
+    "dist": "屏東縣 萬丹鄉",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "多人聚餐",
+      "素食友善",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日便當",
+    "type": "炸雞",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 220,
+    "tags": [
+      "外帶",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中炸雞",
+    "type": "豆花",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 200,
+    "tags": [
+      "親子",
+      "必比登",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名甜點",
+    "type": "甜點",
+    "dist": "嘉義縣 溪口鄉",
+    "price": 250,
+    "tags": [
+      "外帶",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野披薩",
+    "type": "臭豆腐",
+    "dist": "新北市 汐止區",
+    "price": 150,
+    "tags": [
+      "深夜",
+      "平價",
+      "打卡",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成冰品",
+    "type": "鵝肉",
+    "dist": "台中市 大安區",
+    "price": 80,
+    "tags": [
+      "高級",
+      "巷弄",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環披薩牛肉麵",
+    "type": "披薩",
+    "dist": "新竹市 香山區",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名越式麵",
+    "type": "越式",
+    "dist": "台中市 北屯區",
+    "price": 300,
+    "tags": [
+      "必比登",
+      "宵夜",
+      "景觀",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街早午餐燒肉",
+    "type": "早午餐",
+    "dist": "苗栗縣 苗栗市",
+    "price": 160,
+    "tags": [
+      "辣",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店居酒屋",
+    "type": "牛肉麵",
+    "dist": "南投縣 南投市",
+    "price": 200,
+    "tags": [
+      "約會",
+      "巷弄",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名燒肉",
+    "type": "居酒屋",
+    "dist": "高雄市 彌陀區",
+    "price": 230,
+    "tags": [
+      "清爽",
+      "約會",
+      "深夜",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生咖啡",
+    "type": "牛肉麵",
+    "dist": "新北市 深坑區",
+    "price": 280,
+    "tags": [
+      "隱藏版",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記冰品",
+    "type": "剉冰",
+    "dist": "台中市 石岡區",
+    "price": 320,
+    "tags": [
+      "辣",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店麵館",
+    "type": "川菜",
+    "dist": "南投縣 國姓鄉",
+    "price": 130,
+    "tags": [
+      "必比登",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤牛肉麵",
+    "type": "牛肉麵",
+    "dist": "台北市 大同區",
+    "price": 320,
+    "tags": [
+      "約會",
+      "多人聚餐",
+      "在地",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華越式合菜",
+    "type": "越式",
+    "dist": "高雄市 鼓山區",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "景觀",
+      "在地",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口牛排",
+    "type": "拉麵",
+    "dist": "台南市 鹽水區",
+    "price": 280,
+    "tags": [
+      "米其林推薦",
+      "素食友善",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康甜點",
+    "type": "居酒屋",
+    "dist": "新北市 新店區",
+    "price": 250,
+    "tags": [
+      "打卡",
+      "約會",
+      "隱藏版",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名拉麵",
+    "type": "海鮮",
+    "dist": "高雄市 田寮區",
+    "price": 80,
+    "tags": [
+      "清爽",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記火鍋",
+    "type": "義大利麵",
+    "dist": "新北市 石門區",
+    "price": 210,
+    "tags": [
+      "多人聚餐",
+      "老字號",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華麵",
+    "type": "牛排",
+    "dist": "新竹縣 五峰鄉",
+    "price": 180,
+    "tags": [
+      "必比登",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下居酒屋",
+    "type": "燒肉",
+    "dist": "嘉義縣 新港鄉",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "親子",
+      "老字號",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂壽司",
+    "type": "牛排",
+    "dist": "宜蘭縣 南澳鄉",
+    "price": 200,
+    "tags": [
+      "多人聚餐",
+      "CP值高",
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野炸雞",
+    "type": "川菜",
+    "dist": "台東縣 成功鎮",
+    "price": 250,
+    "tags": [
+      "高級",
+      "景觀",
+      "約會",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗牛肉麵",
+    "type": "手搖飲",
+    "dist": "彰化縣 永靖鄉",
+    "price": 130,
+    "tags": [
+      "深夜",
+      "清爽",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記牛肉麵",
+    "type": "排骨飯",
+    "dist": "高雄市 三民區",
+    "price": 380,
+    "tags": [
+      "必比登",
+      "濃郁",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華炸雞小吃",
+    "type": "炸雞",
+    "dist": "台南市 新化區",
+    "price": 220,
+    "tags": [
+      "景觀",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國披薩",
+    "type": "印度菜",
+    "dist": "台南市 學甲區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "老字號",
+      "清爽",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹臭豆腐壽司",
+    "type": "臭豆腐",
+    "dist": "彰化縣 埤頭鄉",
+    "price": 100,
+    "tags": [
+      "在地",
+      "高級",
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟甜點",
+    "type": "拉麵",
+    "dist": "台中市 石岡區",
+    "price": 180,
+    "tags": [
+      "打卡",
+      "巷弄",
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野拉麵",
+    "type": "義大利麵",
+    "dist": "台北市 士林區",
+    "price": 160,
+    "tags": [
+      "平價",
+      "排隊",
+      "文青",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王豆花炸雞",
+    "type": "豆花",
+    "dist": "桃園市 龍潭區",
+    "price": 280,
+    "tags": [
+      "外帶",
+      "平價",
+      "老字號",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中泰式麵",
+    "type": "泰式",
+    "dist": "新北市 石門區",
+    "price": 320,
+    "tags": [
+      "平價",
+      "外帶",
+      "排隊",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王小吃",
+    "type": "米糕",
+    "dist": "花蓮縣 富里鄉",
+    "price": 320,
+    "tags": [
+      "排隊",
+      "高級",
+      "宵夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名咖啡",
+    "type": "炸雞",
+    "dist": "新北市 三芝區",
+    "price": 200,
+    "tags": [
+      "巷弄",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗壽司複合式",
+    "type": "壽司",
+    "dist": "新北市 新莊區",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌炸雞",
+    "type": "印度菜",
+    "dist": "桃園市 大園區",
+    "price": 280,
+    "tags": [
+      "濃郁",
+      "平價",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生火鍋甜點",
+    "type": "火鍋",
+    "dist": "台中市 太平區",
+    "price": 130,
+    "tags": [
+      "濃郁",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王便當",
+    "type": "披薩",
+    "dist": "屏東縣 里港鄉",
+    "price": 160,
+    "tags": [
+      "隱藏版",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口合菜",
+    "type": "披薩",
+    "dist": "苗栗縣 卓蘭鎮",
+    "price": 300,
+    "tags": [
+      "多人聚餐",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名燒肉牛肉麵",
+    "type": "燒肉",
+    "dist": "彰化縣 和美鎮",
+    "price": 250,
+    "tags": [
+      "CP值高",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤海產",
+    "type": "客家菜",
+    "dist": "台北市 萬華區",
+    "price": 150,
+    "tags": [
+      "打卡",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華牛排",
+    "type": "豆花",
+    "dist": "屏東縣 南州鄉",
+    "price": 80,
+    "tags": [
+      "多人聚餐",
+      "素食友善",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中麵館",
+    "type": "豆花",
+    "dist": "台南市 新化區",
+    "price": 250,
+    "tags": [
+      "隱藏版",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟複合式",
+    "type": "義大利麵",
+    "dist": "高雄市 楠梓區",
+    "price": 280,
+    "tags": [
+      "老字號",
+      "巷弄",
+      "在地",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口複合式",
+    "type": "剉冰",
+    "dist": "金門縣 金湖鎮",
+    "price": 100,
+    "tags": [
+      "高級",
+      "宵夜",
+      "老字號",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋甜點",
+    "type": "雞肉飯",
+    "dist": "高雄市 鼓山區",
+    "price": 150,
+    "tags": [
+      "外帶",
+      "約會",
+      "排隊",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記麵",
+    "type": "牛排",
+    "dist": "屏東縣 麟洛鄉",
+    "price": 320,
+    "tags": [
+      "濃郁",
+      "排隊",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環炸雞",
+    "type": "燒肉",
+    "dist": "花蓮縣 玉里鎮",
+    "price": 280,
+    "tags": [
+      "約會",
+      "清爽",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖啡",
+    "type": "壽司",
+    "dist": "台東縣 成功鎮",
+    "price": 200,
+    "tags": [
+      "多人聚餐",
+      "CP值高",
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記咖哩飯食堂",
+    "type": "咖哩飯",
+    "dist": "基隆市 暖暖區",
+    "price": 350,
+    "tags": [
+      "清爽",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王披薩",
+    "type": "小籠包",
+    "dist": "新北市 永和區",
+    "price": 160,
+    "tags": [
+      "約會",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野無菜單料理小吃",
+    "type": "無菜單料理",
+    "dist": "澎湖縣 湖西鄉",
+    "price": 380,
+    "tags": [
+      "平價",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成麵",
+    "type": "豆花",
+    "dist": "雲林縣 二崙鄉",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "必比登",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋燒肉合菜",
+    "type": "燒肉",
+    "dist": "高雄市 美濃區",
+    "price": 280,
+    "tags": [
+      "親子",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟甜點",
+    "type": "雞肉飯",
+    "dist": "台東縣 卑南鄉",
+    "price": 150,
+    "tags": [
+      "清爽",
+      "高級",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環豆花壽司",
+    "type": "豆花",
+    "dist": "台南市 新營區",
+    "price": 200,
+    "tags": [
+      "在地",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華港式合菜",
+    "type": "港式",
+    "dist": "台中市 東區",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "在地",
+      "必比登",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味火鍋豆花",
+    "type": "火鍋",
+    "dist": "台北市 萬華區",
+    "price": 220,
+    "tags": [
+      "打卡",
+      "高級",
+      "在地",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環居酒屋",
+    "type": "咖哩飯",
+    "dist": "台北市 大安區",
+    "price": 160,
+    "tags": [
+      "景觀",
+      "老字號",
+      "打卡",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味手搖飲早午餐",
+    "type": "手搖飲",
+    "dist": "台北市 中山區",
+    "price": 280,
+    "tags": [
+      "高級",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋川菜便當",
+    "type": "川菜",
+    "dist": "嘉義縣 大埔鄉",
+    "price": 230,
+    "tags": [
+      "親子",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中拉麵",
+    "type": "義大利麵",
+    "dist": "高雄市 旗山區",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成早午餐",
+    "type": "炸雞",
+    "dist": "高雄市 鼓山區",
+    "price": 250,
+    "tags": [
+      "文青",
+      "宵夜",
+      "CP值高",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王海鮮壽司",
+    "type": "海鮮",
+    "dist": "台中市 豐原區",
+    "price": 280,
+    "tags": [
+      "清爽",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌便當",
+    "type": "壽司",
+    "dist": "新竹縣 芎林鄉",
+    "price": 220,
+    "tags": [
+      "平價",
+      "文青",
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口海產",
+    "type": "甜點",
+    "dist": "台北市 萬華區",
+    "price": 160,
+    "tags": [
+      "親子",
+      "排隊",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂咖啡",
+    "type": "蚵仔煎",
+    "dist": "桃園市 桃園區",
+    "price": 120,
+    "tags": [
+      "約會",
+      "米其林推薦",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂牛排",
+    "type": "早午餐",
+    "dist": "高雄市 鹽埕區",
+    "price": 320,
+    "tags": [
+      "隱藏版",
+      "清爽",
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂披薩",
+    "type": "燒肉",
+    "dist": "雲林縣 元長鄉",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "巷弄",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國麵",
+    "type": "客家菜",
+    "dist": "南投縣 仁愛鄉",
+    "price": 120,
+    "tags": [
+      "約會",
+      "景觀",
+      "巷弄",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館牛肉麵",
+    "type": "鵝肉",
+    "dist": "台中市 豐原區",
+    "price": 100,
+    "tags": [
+      "打卡",
+      "素食友善",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗複合式",
+    "type": "義大利麵",
+    "dist": "新北市 泰山區",
+    "price": 130,
+    "tags": [
+      "外帶",
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華燒肉",
+    "type": "海鮮",
+    "dist": "苗栗縣 卓蘭鎮",
+    "price": 350,
+    "tags": [
+      "親子",
+      "米其林推薦",
+      "濃郁",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華麵館",
+    "type": "客家菜",
+    "dist": "花蓮縣 花蓮市",
+    "price": 180,
+    "tags": [
+      "素食友善",
+      "約會",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口早午餐",
+    "type": "披薩",
+    "dist": "台東縣 大武鄉",
+    "price": 80,
+    "tags": [
+      "辣",
+      "在地",
+      "排隊",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店海產",
+    "type": "手搖飲",
+    "dist": "苗栗縣 銅鑼鄉",
+    "price": 380,
+    "tags": [
+      "老字號",
+      "濃郁",
+      "CP值高",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口拉麵",
+    "type": "居酒屋",
+    "dist": "花蓮縣 富里鄉",
+    "price": 80,
+    "tags": [
+      "宵夜",
+      "多人聚餐",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗炸雞",
+    "type": "蚵仔煎",
+    "dist": "彰化縣 大村鄉",
+    "price": 120,
+    "tags": [
+      "巷弄",
+      "多人聚餐",
+      "宵夜",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂臭豆腐炸雞",
+    "type": "臭豆腐",
+    "dist": "新北市 汐止區",
+    "price": 230,
+    "tags": [
+      "巷弄",
+      "親子",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟麵",
+    "type": "川菜",
+    "dist": "台中市 梧棲區",
+    "price": 180,
+    "tags": [
+      "宵夜",
+      "打卡",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖哩飯牛肉麵",
+    "type": "咖哩飯",
+    "dist": "嘉義縣 大林鎮",
+    "price": 180,
+    "tags": [
+      "隱藏版",
+      "米其林推薦",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街食堂",
+    "type": "居酒屋",
+    "dist": "台中市 大甲區",
+    "price": 210,
+    "tags": [
+      "深夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華剉冰壽司",
+    "type": "剉冰",
+    "dist": "金門縣 金城鎮",
+    "price": 250,
+    "tags": [
+      "外帶",
+      "老字號",
+      "清爽",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂壽司牛排",
+    "type": "壽司",
+    "dist": "屏東縣 麟洛鄉",
+    "price": 230,
+    "tags": [
+      "親子",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康咖啡",
+    "type": "臭豆腐",
+    "dist": "桃園市 桃園區",
+    "price": 130,
+    "tags": [
+      "深夜",
+      "清爽",
+      "打卡",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店居酒屋",
+    "type": "手搖飲",
+    "dist": "嘉義縣 竹崎鄉",
+    "price": 130,
+    "tags": [
+      "辣",
+      "打卡",
+      "素食友善",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣拉麵",
+    "type": "海鮮",
+    "dist": "台中市 西屯區",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "多人聚餐",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成麵",
+    "type": "雞肉飯",
+    "dist": "高雄市 鳥松區",
+    "price": 80,
+    "tags": [
+      "排隊",
+      "高級",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康早午餐",
+    "type": "米糕",
+    "dist": "台東縣 大武鄉",
+    "price": 400,
+    "tags": [
+      "清爽",
+      "景觀",
+      "文青",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗甜點食堂",
+    "type": "甜點",
+    "dist": "高雄市 旗山區",
+    "price": 100,
+    "tags": [
+      "外帶",
+      "宵夜",
+      "辣",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康炸雞牛肉麵",
+    "type": "炸雞",
+    "dist": "台東縣 太麻里鄉",
+    "price": 180,
+    "tags": [
+      "排隊",
+      "CP值高",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中燒肉",
+    "type": "燒肉",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 200,
+    "tags": [
+      "CP值高",
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名冰品",
+    "type": "越式",
+    "dist": "台南市 麻豆區",
+    "price": 200,
+    "tags": [
+      "辣",
+      "親子",
+      "深夜",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂居酒屋",
+    "type": "臭豆腐",
+    "dist": "台中市 東勢區",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "深夜",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口便當",
+    "type": "鵝肉",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 250,
+    "tags": [
+      "素食友善",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環海產",
+    "type": "泰式",
+    "dist": "苗栗縣 苗栗市",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "高級",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟冰品",
+    "type": "甜點",
+    "dist": "台中市 潭子區",
+    "price": 160,
+    "tags": [
+      "約會",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味小吃",
+    "type": "早午餐",
+    "dist": "新北市 三峽區",
+    "price": 150,
+    "tags": [
+      "外帶",
+      "素食友善",
+      "文青",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌牛排",
+    "type": "印度菜",
+    "dist": "台東縣 台東市",
+    "price": 320,
+    "tags": [
+      "外帶",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口便當",
+    "type": "牛排",
+    "dist": "屏東縣 萬丹鄉",
+    "price": 320,
+    "tags": [
+      "素食友善",
+      "多人聚餐",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中甜點",
+    "type": "披薩",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 220,
+    "tags": [
+      "CP值高",
+      "多人聚餐",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日便當",
+    "type": "蚵仔煎",
+    "dist": "台中市 烏日區",
+    "price": 250,
+    "tags": [
+      "打卡",
+      "約會",
+      "老字號",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王早午餐",
+    "type": "火鍋",
+    "dist": "台中市 太平區",
+    "price": 130,
+    "tags": [
+      "濃郁",
+      "CP值高",
+      "親子",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味披薩",
+    "type": "滷肉飯",
+    "dist": "台東縣 台東市",
+    "price": 230,
+    "tags": [
+      "深夜",
+      "約會",
+      "濃郁",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街燒肉",
+    "type": "滷肉飯",
+    "dist": "澎湖縣 望安鄉",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味燒肉",
+    "type": "川菜",
+    "dist": "高雄市 前金區",
+    "price": 100,
+    "tags": [
+      "老字號",
+      "濃郁",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂便當",
+    "type": "剉冰",
+    "dist": "新竹市 東區",
+    "price": 150,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "老字號",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味麵館",
+    "type": "無菜單料理",
+    "dist": "桃園市 龍潭區",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "景觀",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日食堂",
+    "type": "咖哩飯",
+    "dist": "台中市 大甲區",
+    "price": 120,
+    "tags": [
+      "濃郁",
+      "排隊",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店港式燒肉",
+    "type": "港式",
+    "dist": "彰化縣 芬園鄉",
+    "price": 180,
+    "tags": [
+      "濃郁",
+      "多人聚餐",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋炸雞",
+    "type": "拉麵",
+    "dist": "嘉義縣 朴子市",
+    "price": 230,
+    "tags": [
+      "高級",
+      "外帶",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口居酒屋",
+    "type": "義大利麵",
+    "dist": "新竹縣 新埔鎮",
+    "price": 130,
+    "tags": [
+      "文青",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館居酒屋拉麵",
+    "type": "居酒屋",
+    "dist": "雲林縣 麥寮鄉",
+    "price": 130,
+    "tags": [
+      "深夜",
+      "辣",
+      "景觀",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣拉麵",
+    "type": "燒肉",
+    "dist": "連江縣 東引鄉",
+    "price": 250,
+    "tags": [
+      "隱藏版",
+      "必比登",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野咖哩飯牛肉麵",
+    "type": "咖哩飯",
+    "dist": "雲林縣 土庫鎮",
+    "price": 80,
+    "tags": [
+      "約會",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口小籠包冰品",
+    "type": "小籠包",
+    "dist": "苗栗縣 苑裡鎮",
+    "price": 150,
+    "tags": [
+      "巷弄",
+      "平價",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館火鍋",
+    "type": "剉冰",
+    "dist": "新北市 土城區",
+    "price": 150,
+    "tags": [
+      "多人聚餐",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味複合式",
+    "type": "咖啡",
+    "dist": "南投縣 仁愛鄉",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "隱藏版",
+      "清爽",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟甜點",
+    "type": "披薩",
+    "dist": "高雄市 新興區",
+    "price": 80,
+    "tags": [
+      "約會",
+      "平價",
+      "濃郁",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日蚵仔煎合菜",
+    "type": "蚵仔煎",
+    "dist": "連江縣 莒光鄉",
+    "price": 200,
+    "tags": [
+      "巷弄",
+      "排隊",
+      "深夜",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日合菜",
+    "type": "臭豆腐",
+    "dist": "台中市 豐原區",
+    "price": 210,
+    "tags": [
+      "文青",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛肉麵",
+    "type": "燒肉",
+    "dist": "屏東縣 萬丹鄉",
+    "price": 80,
+    "tags": [
+      "老字號",
+      "CP值高",
+      "清爽",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康拉麵",
+    "type": "鵝肉",
+    "dist": "桃園市 蘆竹區",
+    "price": 80,
+    "tags": [
+      "排隊",
+      "外帶",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野蚵仔煎居酒屋",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 三灣鄉",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "宵夜",
+      "清爽",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記合菜",
+    "type": "海鮮",
+    "dist": "台北市 南港區",
+    "price": 280,
+    "tags": [
+      "平價",
+      "清爽",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野牛排",
+    "type": "臭豆腐",
+    "dist": "高雄市 湖內區",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "親子",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂便當",
+    "type": "早午餐",
+    "dist": "高雄市 湖內區",
+    "price": 100,
+    "tags": [
+      "排隊",
+      "文青",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌火鍋",
+    "type": "牛排",
+    "dist": "屏東縣 枋寮鄉",
+    "price": 300,
+    "tags": [
+      "在地",
+      "外帶",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成雞肉飯食堂",
+    "type": "雞肉飯",
+    "dist": "新北市 中和區",
+    "price": 280,
+    "tags": [
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗咖啡早午餐",
+    "type": "咖啡",
+    "dist": "台中市 后里區",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "打卡",
+      "辣",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下火鍋",
+    "type": "壽司",
+    "dist": "苗栗縣 通霄鎮",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "辣",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生燒肉",
+    "type": "牛肉麵",
+    "dist": "桃園市 蘆竹區",
+    "price": 220,
+    "tags": [
+      "在地",
+      "平價",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街居酒屋",
+    "type": "牛排",
+    "dist": "新北市 鶯歌區",
+    "price": 320,
+    "tags": [
+      "米其林推薦",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下冰品",
+    "type": "海鮮",
+    "dist": "高雄市 鳥松區",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌早午餐",
+    "type": "居酒屋",
+    "dist": "雲林縣 古坑鄉",
+    "price": 350,
+    "tags": [
+      "米其林推薦",
+      "打卡",
+      "親子",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌豆花",
+    "type": "居酒屋",
+    "dist": "新竹縣 五峰鄉",
+    "price": 300,
+    "tags": [
+      "CP值高",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康冰品",
+    "type": "牛排",
+    "dist": "宜蘭縣 員山鄉",
+    "price": 350,
+    "tags": [
+      "在地",
+      "宵夜",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野披薩",
+    "type": "海鮮",
+    "dist": "高雄市 鳳山區",
+    "price": 150,
+    "tags": [
+      "景觀",
+      "清爽",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口豆花",
+    "type": "客家菜",
+    "dist": "屏東縣 長治鄉",
+    "price": 280,
+    "tags": [
+      "親子",
+      "巷弄",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國麵",
+    "type": "海鮮",
+    "dist": "高雄市 鼓山區",
+    "price": 400,
+    "tags": [
+      "親子",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日豆花",
+    "type": "手搖飲",
+    "dist": "彰化縣 花壇鄉",
+    "price": 280,
+    "tags": [
+      "CP值高",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成炸雞",
+    "type": "火鍋",
+    "dist": "台中市 中區",
+    "price": 400,
+    "tags": [
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店便當",
+    "type": "火鍋",
+    "dist": "花蓮縣 花蓮市",
+    "price": 320,
+    "tags": [
+      "平價",
+      "打卡",
+      "濃郁",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華咖啡",
+    "type": "蚵仔煎",
+    "dist": "新竹縣 關西鎮",
+    "price": 150,
+    "tags": [
+      "文青",
+      "約會",
+      "清爽",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中早午餐",
+    "type": "客家菜",
+    "dist": "新竹縣 橫山鄉",
+    "price": 160,
+    "tags": [
+      "濃郁",
+      "隱藏版",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街小吃",
+    "type": "剉冰",
+    "dist": "新北市 永和區",
+    "price": 250,
+    "tags": [
+      "約會",
+      "素食友善",
+      "巷弄",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟壽司",
+    "type": "無菜單料理",
+    "dist": "屏東縣 新園鄉",
+    "price": 250,
+    "tags": [
+      "高級",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館豆花",
+    "type": "豆花",
+    "dist": "嘉義縣 民雄鄉",
+    "price": 120,
+    "tags": [
+      "辣",
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國早午餐",
+    "type": "滷肉飯",
+    "dist": "苗栗縣 西湖鄉",
+    "price": 150,
+    "tags": [
+      "老字號",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂海產",
+    "type": "印度菜",
+    "dist": "屏東縣 新園鄉",
+    "price": 250,
+    "tags": [
+      "隱藏版",
+      "打卡",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環便當",
+    "type": "壽司",
+    "dist": "新竹市 北區",
+    "price": 300,
+    "tags": [
+      "隱藏版",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日手搖飲燒肉",
+    "type": "手搖飲",
+    "dist": "新竹市 東區",
+    "price": 80,
+    "tags": [
+      "必比登",
+      "在地",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館義大利麵麵館",
+    "type": "義大利麵",
+    "dist": "新竹市 香山區",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "在地",
+      "外帶",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華越式炸雞",
+    "type": "越式",
+    "dist": "高雄市 燕巢區",
+    "price": 180,
+    "tags": [
+      "打卡",
+      "老字號",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日冰品",
+    "type": "排骨飯",
+    "dist": "新竹縣 五峰鄉",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "濃郁",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日複合式",
+    "type": "義大利麵",
+    "dist": "澎湖縣 西嶼鄉",
+    "price": 200,
+    "tags": [
+      "高級",
+      "深夜",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟手搖飲便當",
+    "type": "手搖飲",
+    "dist": "台南市 歸仁區",
+    "price": 300,
+    "tags": [
+      "約會",
+      "打卡",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂食堂",
+    "type": "港式",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 150,
+    "tags": [
+      "辣",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華咖啡",
+    "type": "剉冰",
+    "dist": "屏東縣 林邊鄉",
+    "price": 80,
+    "tags": [
+      "排隊",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味冰品",
+    "type": "港式",
+    "dist": "桃園市 龍潭區",
+    "price": 250,
+    "tags": [
+      "平價",
+      "景觀",
+      "宵夜",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤麵",
+    "type": "剉冰",
+    "dist": "新竹縣 湖口鄉",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下炸雞",
+    "type": "咖哩飯",
+    "dist": "高雄市 田寮區",
+    "price": 380,
+    "tags": [
+      "約會",
+      "素食友善",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名壽司合菜",
+    "type": "壽司",
+    "dist": "屏東縣 林邊鄉",
+    "price": 180,
+    "tags": [
+      "多人聚餐",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口拉麵",
+    "type": "豆花",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 80,
+    "tags": [
+      "文青",
+      "辣",
+      "打卡",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中炸雞",
+    "type": "牛排",
+    "dist": "宜蘭縣 員山鄉",
+    "price": 300,
+    "tags": [
+      "米其林推薦",
+      "素食友善",
+      "文青",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口麵",
+    "type": "咖啡",
+    "dist": "嘉義縣 朴子市",
+    "price": 230,
+    "tags": [
+      "外帶",
+      "老字號",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王拉麵",
+    "type": "披薩",
+    "dist": "彰化縣 伸港鄉",
+    "price": 380,
+    "tags": [
+      "高級",
+      "親子",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂燒肉",
+    "type": "川菜",
+    "dist": "台東縣 綠島鄉",
+    "price": 150,
+    "tags": [
+      "高級",
+      "平價",
+      "清爽",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康咖啡",
+    "type": "滷肉飯",
+    "dist": "新北市 林口區",
+    "price": 280,
+    "tags": [
+      "CP值高",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華燒肉",
+    "type": "印度菜",
+    "dist": "台中市 龍井區",
+    "price": 300,
+    "tags": [
+      "辣",
+      "CP值高",
+      "深夜",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館早午餐",
+    "type": "滷肉飯",
+    "dist": "台南市 善化區",
+    "price": 100,
+    "tags": [
+      "文青",
+      "打卡",
+      "濃郁",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹便當",
+    "type": "剉冰",
+    "dist": "花蓮縣 壽豐鄉",
+    "price": 300,
+    "tags": [
+      "打卡",
+      "深夜",
+      "高級",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌火鍋",
+    "type": "咖啡",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 80,
+    "tags": [
+      "文青",
+      "外帶",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟火鍋",
+    "type": "義大利麵",
+    "dist": "新北市 樹林區",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "清爽",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌川菜複合式",
+    "type": "川菜",
+    "dist": "嘉義縣 大埔鄉",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "約會",
+      "CP值高",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤燒肉",
+    "type": "剉冰",
+    "dist": "彰化縣 埔心鄉",
+    "price": 200,
+    "tags": [
+      "平價",
+      "隱藏版",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛肉麵",
+    "type": "咖哩飯",
+    "dist": "新竹縣 竹北市",
+    "price": 160,
+    "tags": [
+      "隱藏版",
+      "排隊",
+      "外帶",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口火鍋",
+    "type": "川菜",
+    "dist": "連江縣 莒光鄉",
+    "price": 160,
+    "tags": [
+      "素食友善",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華合菜",
+    "type": "壽司",
+    "dist": "台南市 南區",
+    "price": 80,
+    "tags": [
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日早午餐",
+    "type": "燒肉",
+    "dist": "台中市 沙鹿區",
+    "price": 210,
+    "tags": [
+      "清爽",
+      "親子",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中炸雞",
+    "type": "川菜",
+    "dist": "雲林縣 東勢鄉",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "必比登",
+      "約會",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店海產",
+    "type": "燒肉",
+    "dist": "澎湖縣 馬公市",
+    "price": 150,
+    "tags": [
+      "外帶",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生複合式",
+    "type": "壽司",
+    "dist": "基隆市 安樂區",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "文青",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日小吃",
+    "type": "鵝肉",
+    "dist": "連江縣 莒光鄉",
+    "price": 220,
+    "tags": [
+      "景觀",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成剉冰食堂",
+    "type": "剉冰",
+    "dist": "台東縣 池上鄉",
+    "price": 180,
+    "tags": [
+      "高級",
+      "辣",
+      "親子",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂甜點",
+    "type": "鵝肉",
+    "dist": "台中市 梧棲區",
+    "price": 350,
+    "tags": [
+      "深夜",
+      "平價",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國泰式合菜",
+    "type": "泰式",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 300,
+    "tags": [
+      "親子",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中火鍋",
+    "type": "甜點",
+    "dist": "台北市 萬華區",
+    "price": 200,
+    "tags": [
+      "老字號",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王複合式",
+    "type": "壽司",
+    "dist": "台中市 大雅區",
+    "price": 180,
+    "tags": [
+      "在地",
+      "宵夜",
+      "平價",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤披薩",
+    "type": "印度菜",
+    "dist": "台中市 神岡區",
+    "price": 160,
+    "tags": [
+      "打卡",
+      "在地",
+      "景觀",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口炸雞披薩",
+    "type": "炸雞",
+    "dist": "桃園市 八德區",
+    "price": 150,
+    "tags": [
+      "高級",
+      "排隊",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣米糕壽司",
+    "type": "米糕",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 120,
+    "tags": [
+      "在地",
+      "深夜",
+      "打卡",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口便當",
+    "type": "手搖飲",
+    "dist": "雲林縣 東勢鄉",
+    "price": 100,
+    "tags": [
+      "濃郁",
+      "高級",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日披薩居酒屋",
+    "type": "披薩",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 80,
+    "tags": [
+      "平價",
+      "景觀",
+      "巷弄",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成咖啡",
+    "type": "手搖飲",
+    "dist": "台東縣 太麻里鄉",
+    "price": 300,
+    "tags": [
+      "親子",
+      "素食友善",
+      "辣",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口食堂",
+    "type": "咖哩飯",
+    "dist": "屏東縣 東港鎮",
+    "price": 220,
+    "tags": [
+      "親子",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂壽司",
+    "type": "披薩",
+    "dist": "台南市 關廟區",
+    "price": 180,
+    "tags": [
+      "文青",
+      "排隊",
+      "宵夜",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌早午餐",
+    "type": "雞肉飯",
+    "dist": "高雄市 彌陀區",
+    "price": 200,
+    "tags": [
+      "濃郁",
+      "高級",
+      "外帶",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂早午餐食堂",
+    "type": "早午餐",
+    "dist": "屏東縣 鹽埔鄉",
+    "price": 280,
+    "tags": [
+      "辣",
+      "打卡",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王牛排",
+    "type": "蚵仔煎",
+    "dist": "新北市 鶯歌區",
+    "price": 380,
+    "tags": [
+      "巷弄",
+      "打卡",
+      "外帶",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記燒肉",
+    "type": "海鮮",
+    "dist": "新北市 三峽區",
+    "price": 200,
+    "tags": [
+      "濃郁",
+      "平價",
+      "約會",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日炸雞",
+    "type": "義大利麵",
+    "dist": "南投縣 竹山鎮",
+    "price": 160,
+    "tags": [
+      "景觀",
+      "親子",
+      "平價",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館拉麵小吃",
+    "type": "拉麵",
+    "dist": "澎湖縣 西嶼鄉",
+    "price": 100,
+    "tags": [
+      "巷弄",
+      "高級",
+      "在地",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹合菜",
+    "type": "滷肉飯",
+    "dist": "新竹縣 芎林鄉",
+    "price": 180,
+    "tags": [
+      "排隊",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館牛排小吃",
+    "type": "牛排",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 250,
+    "tags": [
+      "巷弄",
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛肉麵",
+    "type": "鵝肉",
+    "dist": "屏東縣 鹽埔鄉",
+    "price": 80,
+    "tags": [
+      "打卡",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味拉麵",
+    "type": "無菜單料理",
+    "dist": "嘉義縣 中埔鄉",
+    "price": 150,
+    "tags": [
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口麵館",
+    "type": "小籠包",
+    "dist": "台南市 七股區",
+    "price": 210,
+    "tags": [
+      "清爽",
+      "排隊",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店拉麵炸雞",
+    "type": "拉麵",
+    "dist": "台中市 東勢區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "景觀",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名拉麵火鍋",
+    "type": "拉麵",
+    "dist": "花蓮縣 鳳林鎮",
+    "price": 180,
+    "tags": [
+      "文青",
+      "親子",
+      "必比登",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中火鍋",
+    "type": "火鍋",
+    "dist": "高雄市 路竹區",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華食堂",
+    "type": "臭豆腐",
+    "dist": "台中市 外埔區",
+    "price": 250,
+    "tags": [
+      "CP值高",
+      "清爽",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂甜點",
+    "type": "米糕",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 230,
+    "tags": [
+      "排隊",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日客家菜早午餐",
+    "type": "客家菜",
+    "dist": "台東縣 卑南鄉",
+    "price": 130,
+    "tags": [
+      "高級",
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日拉麵",
+    "type": "米糕",
+    "dist": "基隆市 暖暖區",
+    "price": 200,
+    "tags": [
+      "深夜",
+      "素食友善",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康蚵仔煎甜點",
+    "type": "蚵仔煎",
+    "dist": "台南市 南區",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "宵夜",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店小吃",
+    "type": "港式",
+    "dist": "連江縣 莒光鄉",
+    "price": 200,
+    "tags": [
+      "高級",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口客家菜麵館",
+    "type": "客家菜",
+    "dist": "台中市 梧棲區",
+    "price": 220,
+    "tags": [
+      "隱藏版",
+      "米其林推薦",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口披薩",
+    "type": "剉冰",
+    "dist": "澎湖縣 望安鄉",
+    "price": 150,
+    "tags": [
+      "巷弄",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌牛排",
+    "type": "臭豆腐",
+    "dist": "雲林縣 元長鄉",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "老字號",
+      "約會",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野複合式",
+    "type": "燒肉",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 120,
+    "tags": [
+      "在地",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館便當",
+    "type": "川菜",
+    "dist": "台北市 文山區",
+    "price": 160,
+    "tags": [
+      "平價",
+      "外帶",
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館合菜",
+    "type": "剉冰",
+    "dist": "高雄市 大樹區",
+    "price": 200,
+    "tags": [
+      "約會",
+      "外帶",
+      "多人聚餐",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館炸雞",
+    "type": "咖哩飯",
+    "dist": "台南市 麻豆區",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "排隊",
+      "素食友善",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中便當",
+    "type": "拉麵",
+    "dist": "雲林縣 林內鄉",
+    "price": 210,
+    "tags": [
+      "濃郁",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館泰式咖啡",
+    "type": "泰式",
+    "dist": "台中市 沙鹿區",
+    "price": 200,
+    "tags": [
+      "隱藏版",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味燒肉",
+    "type": "印度菜",
+    "dist": "宜蘭縣 五結鄉",
+    "price": 130,
+    "tags": [
+      "濃郁",
+      "宵夜",
+      "清爽",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味披薩",
+    "type": "排骨飯",
+    "dist": "基隆市 仁愛區",
+    "price": 80,
+    "tags": [
+      "親子",
+      "文青",
+      "濃郁",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋合菜",
+    "type": "蚵仔煎",
+    "dist": "高雄市 彌陀區",
+    "price": 280,
+    "tags": [
+      "深夜",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口咖啡",
+    "type": "剉冰",
+    "dist": "新竹縣 北埔鄉",
+    "price": 300,
+    "tags": [
+      "平價",
+      "隱藏版",
+      "宵夜",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店雞肉飯牛排",
+    "type": "雞肉飯",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 320,
+    "tags": [
+      "宵夜",
+      "深夜",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌早午餐",
+    "type": "越式",
+    "dist": "台南市 北區",
+    "price": 350,
+    "tags": [
+      "打卡",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街海產",
+    "type": "鵝肉",
+    "dist": "新竹縣 橫山鄉",
+    "price": 320,
+    "tags": [
+      "文青",
+      "辣",
+      "外帶",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂複合式",
+    "type": "手搖飲",
+    "dist": "新北市 林口區",
+    "price": 300,
+    "tags": [
+      "外帶",
+      "排隊",
+      "素食友善",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口米糕複合式",
+    "type": "米糕",
+    "dist": "高雄市 左營區",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "多人聚餐",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗披薩",
+    "type": "牛肉麵",
+    "dist": "新北市 八里區",
+    "price": 80,
+    "tags": [
+      "必比登",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下炸雞",
+    "type": "客家菜",
+    "dist": "桃園市 復興區",
+    "price": 230,
+    "tags": [
+      "平價",
+      "米其林推薦",
+      "清爽",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日便當",
+    "type": "港式",
+    "dist": "桃園市 桃園區",
+    "price": 200,
+    "tags": [
+      "素食友善",
+      "景觀",
+      "排隊",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名居酒屋",
+    "type": "客家菜",
+    "dist": "苗栗縣 西湖鄉",
+    "price": 200,
+    "tags": [
+      "CP值高",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記牛排",
+    "type": "豆花",
+    "dist": "高雄市 湖內區",
+    "price": 380,
+    "tags": [
+      "老字號",
+      "景觀",
+      "宵夜",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂甜點",
+    "type": "手搖飲",
+    "dist": "雲林縣 二崙鄉",
+    "price": 200,
+    "tags": [
+      "清爽",
+      "老字號",
+      "親子",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣居酒屋",
+    "type": "剉冰",
+    "dist": "高雄市 前鎮區",
+    "price": 160,
+    "tags": [
+      "隱藏版",
+      "老字號",
+      "打卡",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康米糕便當",
+    "type": "米糕",
+    "dist": "高雄市 大樹區",
+    "price": 320,
+    "tags": [
+      "必比登",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋義大利麵小吃",
+    "type": "義大利麵",
+    "dist": "屏東縣 潮州鎮",
+    "price": 150,
+    "tags": [
+      "文青",
+      "在地",
+      "宵夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂小吃",
+    "type": "印度菜",
+    "dist": "嘉義縣 大林鎮",
+    "price": 180,
+    "tags": [
+      "高級",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環食堂",
+    "type": "泰式",
+    "dist": "新北市 汐止區",
+    "price": 80,
+    "tags": [
+      "在地",
+      "景觀",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環合菜",
+    "type": "拉麵",
+    "dist": "嘉義縣 阿里山鄉",
+    "price": 250,
+    "tags": [
+      "文青",
+      "親子",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王壽司",
+    "type": "港式",
+    "dist": "嘉義縣 義竹鄉",
+    "price": 350,
+    "tags": [
+      "老字號",
+      "清爽",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康甜點",
+    "type": "客家菜",
+    "dist": "宜蘭縣 蘇澳鎮",
+    "price": 180,
+    "tags": [
+      "米其林推薦",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名越式小吃",
+    "type": "越式",
+    "dist": "雲林縣 斗六市",
+    "price": 80,
+    "tags": [
+      "在地",
+      "老字號",
+      "素食友善",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣海產",
+    "type": "蚵仔煎",
+    "dist": "高雄市 彌陀區",
+    "price": 250,
+    "tags": [
+      "巷弄",
+      "在地",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名燒肉",
+    "type": "火鍋",
+    "dist": "台南市 關廟區",
+    "price": 180,
+    "tags": [
+      "宵夜",
+      "必比登",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣炸雞",
+    "type": "排骨飯",
+    "dist": "高雄市 阿蓮區",
+    "price": 250,
+    "tags": [
+      "CP值高",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成滷肉飯食堂",
+    "type": "滷肉飯",
+    "dist": "宜蘭縣 大同鄉",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "打卡",
+      "巷弄",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋麵館",
+    "type": "居酒屋",
+    "dist": "高雄市 永安區",
+    "price": 230,
+    "tags": [
+      "巷弄",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋冰品",
+    "type": "早午餐",
+    "dist": "台中市 大甲區",
+    "price": 280,
+    "tags": [
+      "必比登",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華咖哩飯便當",
+    "type": "咖哩飯",
+    "dist": "台中市 烏日區",
+    "price": 230,
+    "tags": [
+      "老字號",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名炸雞",
+    "type": "雞肉飯",
+    "dist": "新竹市 香山區",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "CP值高",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王海鮮燒肉",
+    "type": "海鮮",
+    "dist": "彰化縣 和美鎮",
+    "price": 380,
+    "tags": [
+      "文青",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹合菜",
+    "type": "牛排",
+    "dist": "台南市 佳里區",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "打卡",
+      "隱藏版",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館冰品",
+    "type": "港式",
+    "dist": "新北市 五股區",
+    "price": 350,
+    "tags": [
+      "親子",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟燒肉",
+    "type": "印度菜",
+    "dist": "苗栗縣 泰安鄉",
+    "price": 180,
+    "tags": [
+      "平價",
+      "濃郁",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記早午餐",
+    "type": "臭豆腐",
+    "dist": "苗栗縣 三灣鄉",
+    "price": 100,
+    "tags": [
+      "約會",
+      "隱藏版",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名咖啡複合式",
+    "type": "咖啡",
+    "dist": "苗栗縣 苗栗市",
+    "price": 320,
+    "tags": [
+      "宵夜",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂食堂",
+    "type": "小籠包",
+    "dist": "屏東縣 新埤鄉",
+    "price": 120,
+    "tags": [
+      "宵夜",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野牛排",
+    "type": "印度菜",
+    "dist": "新竹縣 竹北市",
+    "price": 180,
+    "tags": [
+      "辣",
+      "打卡",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名拉麵",
+    "type": "居酒屋",
+    "dist": "雲林縣 四湖鄉",
+    "price": 250,
+    "tags": [
+      "辣",
+      "排隊",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口排骨飯海產",
+    "type": "排骨飯",
+    "dist": "台中市 大肚區",
+    "price": 350,
+    "tags": [
+      "深夜",
+      "景觀",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤燒肉",
+    "type": "海鮮",
+    "dist": "花蓮縣 富里鄉",
+    "price": 180,
+    "tags": [
+      "深夜",
+      "濃郁",
+      "素食友善",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記居酒屋早午餐",
+    "type": "居酒屋",
+    "dist": "基隆市 中正區",
+    "price": 280,
+    "tags": [
+      "約會",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下火鍋",
+    "type": "鵝肉",
+    "dist": "彰化縣 福興鄉",
+    "price": 450,
+    "tags": [
+      "CP值高",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日客家菜燒肉",
+    "type": "客家菜",
+    "dist": "桃園市 龍潭區",
+    "price": 160,
+    "tags": [
+      "深夜",
+      "高級",
+      "隱藏版",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗火鍋",
+    "type": "蚵仔煎",
+    "dist": "高雄市 鳳山區",
+    "price": 250,
+    "tags": [
+      "必比登",
+      "在地",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環麵館",
+    "type": "無菜單料理",
+    "dist": "高雄市 旗山區",
+    "price": 320,
+    "tags": [
+      "老字號",
+      "素食友善",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日炸雞",
+    "type": "小籠包",
+    "dist": "新竹市 東區",
+    "price": 300,
+    "tags": [
+      "必比登",
+      "平價",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下燒肉",
+    "type": "雞肉飯",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 200,
+    "tags": [
+      "辣",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟火鍋",
+    "type": "居酒屋",
+    "dist": "高雄市 梓官區",
+    "price": 250,
+    "tags": [
+      "約會",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口居酒屋",
+    "type": "火鍋",
+    "dist": "彰化縣 埤頭鄉",
+    "price": 250,
+    "tags": [
+      "必比登",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街川菜冰品",
+    "type": "川菜",
+    "dist": "金門縣 金沙鎮",
+    "price": 250,
+    "tags": [
+      "打卡",
+      "辣",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟複合式",
+    "type": "雞肉飯",
+    "dist": "南投縣 竹山鎮",
+    "price": 230,
+    "tags": [
+      "景觀",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口早午餐",
+    "type": "豆花",
+    "dist": "彰化縣 伸港鄉",
+    "price": 120,
+    "tags": [
+      "辣",
+      "在地",
+      "景觀",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野麵館",
+    "type": "火鍋",
+    "dist": "屏東縣 崁頂鄉",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂食堂",
+    "type": "蚵仔煎",
+    "dist": "嘉義市 東區",
+    "price": 160,
+    "tags": [
+      "辣",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下便當",
+    "type": "印度菜",
+    "dist": "澎湖縣 望安鄉",
+    "price": 120,
+    "tags": [
+      "約會",
+      "宵夜",
+      "隱藏版",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館合菜",
+    "type": "臭豆腐",
+    "dist": "新北市 三芝區",
+    "price": 250,
+    "tags": [
+      "CP值高",
+      "排隊",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店小吃",
+    "type": "小籠包",
+    "dist": "新北市 鶯歌區",
+    "price": 100,
+    "tags": [
+      "排隊",
+      "必比登",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康牛排",
+    "type": "拉麵",
+    "dist": "台中市 龍井區",
+    "price": 200,
+    "tags": [
+      "老字號",
+      "米其林推薦",
+      "景觀",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環披薩",
+    "type": "米糕",
+    "dist": "新北市 三重區",
+    "price": 200,
+    "tags": [
+      "外帶",
+      "排隊",
+      "文青",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街咖啡",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 頭份市",
+    "price": 100,
+    "tags": [
+      "CP值高",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋越式咖啡",
+    "type": "越式",
+    "dist": "新北市 泰山區",
+    "price": 250,
+    "tags": [
+      "辣",
+      "素食友善",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王冰品",
+    "type": "越式",
+    "dist": "苗栗縣 南庄鄉",
+    "price": 150,
+    "tags": [
+      "必比登",
+      "多人聚餐",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生牛肉麵",
+    "type": "剉冰",
+    "dist": "台南市 安平區",
+    "price": 220,
+    "tags": [
+      "清爽",
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌壽司",
+    "type": "泰式",
+    "dist": "台南市 歸仁區",
+    "price": 100,
+    "tags": [
+      "景觀",
+      "必比登",
+      "宵夜",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司",
+    "type": "披薩",
+    "dist": "連江縣 北竿鄉",
+    "price": 180,
+    "tags": [
+      "隱藏版",
+      "米其林推薦",
+      "排隊",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口合菜",
+    "type": "牛肉麵",
+    "dist": "南投縣 草屯鎮",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "外帶",
+      "排隊",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街米糕拉麵",
+    "type": "米糕",
+    "dist": "新竹市 東區",
+    "price": 230,
+    "tags": [
+      "米其林推薦",
+      "隱藏版",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王牛肉麵",
+    "type": "壽司",
+    "dist": "澎湖縣 白沙鄉",
+    "price": 200,
+    "tags": [
+      "濃郁",
+      "必比登",
+      "親子",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂蚵仔煎咖啡",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 頭屋鄉",
+    "price": 100,
+    "tags": [
+      "景觀",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋複合式",
+    "type": "雞肉飯",
+    "dist": "新竹縣 新豐鄉",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "排隊",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華牛排",
+    "type": "越式",
+    "dist": "屏東縣 新埤鄉",
+    "price": 180,
+    "tags": [
+      "必比登",
+      "老字號",
+      "文青",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華食堂",
+    "type": "小籠包",
+    "dist": "新北市 新莊區",
+    "price": 220,
+    "tags": [
+      "親子",
+      "濃郁",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下手搖飲牛排",
+    "type": "手搖飲",
+    "dist": "台北市 中山區",
+    "price": 160,
+    "tags": [
+      "清爽",
+      "CP值高",
+      "高級",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌居酒屋冰品",
+    "type": "居酒屋",
+    "dist": "台東縣 大武鄉",
+    "price": 400,
+    "tags": [
+      "素食友善",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤居酒屋",
+    "type": "燒肉",
+    "dist": "新竹縣 芎林鄉",
+    "price": 120,
+    "tags": [
+      "宵夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國食堂",
+    "type": "剉冰",
+    "dist": "台中市 大肚區",
+    "price": 80,
+    "tags": [
+      "宵夜",
+      "外帶",
+      "濃郁",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成甜點",
+    "type": "燒肉",
+    "dist": "新北市 新店區",
+    "price": 280,
+    "tags": [
+      "濃郁",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣甜點",
+    "type": "米糕",
+    "dist": "雲林縣 斗南鎮",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康壽司",
+    "type": "海鮮",
+    "dist": "彰化縣 埔心鄉",
+    "price": 210,
+    "tags": [
+      "米其林推薦",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街壽司",
+    "type": "剉冰",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 160,
+    "tags": [
+      "清爽",
+      "外帶",
+      "親子",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌鵝肉拉麵",
+    "type": "鵝肉",
+    "dist": "宜蘭縣 頭城鎮",
+    "price": 220,
+    "tags": [
+      "在地",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日便當",
+    "type": "甜點",
+    "dist": "台中市 潭子區",
+    "price": 200,
+    "tags": [
+      "濃郁",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館牛肉麵",
+    "type": "印度菜",
+    "dist": "金門縣 烈嶼鄉",
+    "price": 320,
+    "tags": [
+      "約會",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成食堂",
+    "type": "手搖飲",
+    "dist": "台南市 善化區",
+    "price": 280,
+    "tags": [
+      "打卡",
+      "必比登",
+      "文青",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康豆花",
+    "type": "豆花",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 320,
+    "tags": [
+      "景觀",
+      "辣",
+      "外帶",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂海鮮麵館",
+    "type": "海鮮",
+    "dist": "苗栗縣 竹南鎮",
+    "price": 130,
+    "tags": [
+      "必比登",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日米糕冰品",
+    "type": "米糕",
+    "dist": "金門縣 金湖鎮",
+    "price": 220,
+    "tags": [
+      "隱藏版",
+      "在地",
+      "清爽",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街食堂",
+    "type": "剉冰",
+    "dist": "台南市 善化區",
+    "price": 80,
+    "tags": [
+      "高級",
+      "濃郁",
+      "約會",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野豆花",
+    "type": "手搖飲",
+    "dist": "屏東縣 里港鄉",
+    "price": 200,
+    "tags": [
+      "隱藏版",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣豆花",
+    "type": "牛肉麵",
+    "dist": "高雄市 燕巢區",
+    "price": 180,
+    "tags": [
+      "必比登",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成火鍋",
+    "type": "拉麵",
+    "dist": "新竹縣 尖石鄉",
+    "price": 100,
+    "tags": [
+      "素食友善",
+      "深夜",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗滷肉飯炸雞",
+    "type": "滷肉飯",
+    "dist": "宜蘭縣 員山鄉",
+    "price": 150,
+    "tags": [
+      "必比登",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中居酒屋",
+    "type": "鵝肉",
+    "dist": "台南市 佳里區",
+    "price": 200,
+    "tags": [
+      "宵夜",
+      "平價",
+      "親子",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中豆花",
+    "type": "雞肉飯",
+    "dist": "金門縣 烈嶼鄉",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "巷弄",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記甜點海產",
+    "type": "甜點",
+    "dist": "台中市 新社區",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "巷弄",
+      "CP值高",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康拉麵",
+    "type": "居酒屋",
+    "dist": "台南市 仁德區",
+    "price": 250,
+    "tags": [
+      "米其林推薦",
+      "文青",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街食堂",
+    "type": "拉麵",
+    "dist": "連江縣 南竿鄉",
+    "price": 210,
+    "tags": [
+      "景觀",
+      "隱藏版",
+      "老字號",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國食堂",
+    "type": "手搖飲",
+    "dist": "台南市 新市區",
+    "price": 150,
+    "tags": [
+      "老字號",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹手搖飲牛肉麵",
+    "type": "手搖飲",
+    "dist": "屏東縣 里港鄉",
+    "price": 80,
+    "tags": [
+      "辣",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野複合式",
+    "type": "壽司",
+    "dist": "高雄市 鳥松區",
+    "price": 320,
+    "tags": [
+      "景觀",
+      "親子",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國牛排麵館",
+    "type": "牛排",
+    "dist": "嘉義縣 朴子市",
+    "price": 250,
+    "tags": [
+      "親子",
+      "濃郁",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街甜點",
+    "type": "早午餐",
+    "dist": "苗栗縣 獅潭鄉",
+    "price": 250,
+    "tags": [
+      "平價",
+      "親子",
+      "米其林推薦",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王牛肉麵",
+    "type": "蚵仔煎",
+    "dist": "苗栗縣 後龍鎮",
+    "price": 320,
+    "tags": [
+      "景觀",
+      "打卡",
+      "必比登",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環排骨飯拉麵",
+    "type": "排骨飯",
+    "dist": "南投縣 竹山鎮",
+    "price": 100,
+    "tags": [
+      "辣",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王火鍋",
+    "type": "排骨飯",
+    "dist": "高雄市 大寮區",
+    "price": 160,
+    "tags": [
+      "清爽",
+      "素食友善",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂拉麵",
+    "type": "火鍋",
+    "dist": "新北市 中和區",
+    "price": 130,
+    "tags": [
+      "辣",
+      "平價",
+      "素食友善",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口牛肉麵",
+    "type": "鵝肉",
+    "dist": "台東縣 大武鄉",
+    "price": 150,
+    "tags": [
+      "必比登",
+      "約會",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店壽司",
+    "type": "無菜單料理",
+    "dist": "新北市 三重區",
+    "price": 130,
+    "tags": [
+      "約會",
+      "米其林推薦",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中麵",
+    "type": "滷肉飯",
+    "dist": "台東縣 大武鄉",
+    "price": 230,
+    "tags": [
+      "文青",
+      "隱藏版",
+      "辣",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環便當",
+    "type": "咖哩飯",
+    "dist": "桃園市 大園區",
+    "price": 210,
+    "tags": [
+      "親子",
+      "清爽",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華海產",
+    "type": "披薩",
+    "dist": "新竹縣 竹北市",
+    "price": 350,
+    "tags": [
+      "必比登",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王海產",
+    "type": "臭豆腐",
+    "dist": "彰化縣 線西鄉",
+    "price": 180,
+    "tags": [
+      "平價",
+      "在地",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街食堂",
+    "type": "拉麵",
+    "dist": "宜蘭縣 大同鄉",
+    "price": 160,
+    "tags": [
+      "老字號",
+      "景觀",
+      "文青",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野豆花",
+    "type": "拉麵",
+    "dist": "高雄市 大樹區",
+    "price": 220,
+    "tags": [
+      "文青",
+      "辣",
+      "多人聚餐",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味牛排",
+    "type": "甜點",
+    "dist": "台南市 新營區",
+    "price": 300,
+    "tags": [
+      "深夜",
+      "排隊",
+      "必比登",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日食堂",
+    "type": "燒肉",
+    "dist": "屏東縣 高樹鄉",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟燒肉",
+    "type": "咖啡",
+    "dist": "基隆市 七堵區",
+    "price": 80,
+    "tags": [
+      "約會",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華食堂",
+    "type": "川菜",
+    "dist": "台北市 大安區",
+    "price": 230,
+    "tags": [
+      "隱藏版",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂拉麵",
+    "type": "剉冰",
+    "dist": "台東縣 卑南鄉",
+    "price": 280,
+    "tags": [
+      "素食友善",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成小吃",
+    "type": "鵝肉",
+    "dist": "桃園市 復興區",
+    "price": 180,
+    "tags": [
+      "清爽",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野壽司",
+    "type": "米糕",
+    "dist": "高雄市 燕巢區",
+    "price": 280,
+    "tags": [
+      "外帶",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟拉麵",
+    "type": "臭豆腐",
+    "dist": "台中市 大安區",
+    "price": 250,
+    "tags": [
+      "親子",
+      "巷弄",
+      "素食友善",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環海產",
+    "type": "早午餐",
+    "dist": "彰化縣 永靖鄉",
+    "price": 130,
+    "tags": [
+      "在地",
+      "隱藏版",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國義大利麵麵",
+    "type": "義大利麵",
+    "dist": "雲林縣 古坑鄉",
+    "price": 350,
+    "tags": [
+      "景觀",
+      "巷弄",
+      "隱藏版",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛排",
+    "type": "海鮮",
+    "dist": "新北市 淡水區",
+    "price": 200,
+    "tags": [
+      "巷弄",
+      "排隊",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康燒肉",
+    "type": "燒肉",
+    "dist": "雲林縣 古坑鄉",
+    "price": 180,
+    "tags": [
+      "CP值高",
+      "排隊",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康火鍋",
+    "type": "早午餐",
+    "dist": "嘉義縣 義竹鄉",
+    "price": 300,
+    "tags": [
+      "辣",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹麵",
+    "type": "豆花",
+    "dist": "新北市 中和區",
+    "price": 200,
+    "tags": [
+      "親子",
+      "深夜",
+      "排隊",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館咖啡",
+    "type": "雞肉飯",
+    "dist": "新北市 三重區",
+    "price": 320,
+    "tags": [
+      "排隊",
+      "必比登",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣食堂",
+    "type": "無菜單料理",
+    "dist": "台南市 安南區",
+    "price": 350,
+    "tags": [
+      "清爽",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街火鍋",
+    "type": "越式",
+    "dist": "嘉義縣 義竹鄉",
+    "price": 300,
+    "tags": [
+      "米其林推薦",
+      "景觀",
+      "宵夜",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館食堂",
+    "type": "印度菜",
+    "dist": "台中市 新社區",
+    "price": 280,
+    "tags": [
+      "排隊",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司",
+    "type": "印度菜",
+    "dist": "嘉義縣 大埔鄉",
+    "price": 320,
+    "tags": [
+      "高級",
+      "巷弄",
+      "宵夜",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋蚵仔煎牛排",
+    "type": "蚵仔煎",
+    "dist": "金門縣 烈嶼鄉",
+    "price": 130,
+    "tags": [
+      "米其林推薦",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野食堂",
+    "type": "牛肉麵",
+    "dist": "新北市 新莊區",
+    "price": 250,
+    "tags": [
+      "文青",
+      "在地",
+      "打卡",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名牛排",
+    "type": "臭豆腐",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 250,
+    "tags": [
+      "多人聚餐",
+      "巷弄",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下居酒屋燒肉",
+    "type": "居酒屋",
+    "dist": "台中市 后里區",
+    "price": 200,
+    "tags": [
+      "約會",
+      "宵夜",
+      "景觀",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤拉麵麵",
+    "type": "拉麵",
+    "dist": "屏東縣 琉球鄉",
+    "price": 320,
+    "tags": [
+      "高級",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店炸雞拉麵",
+    "type": "炸雞",
+    "dist": "台中市 神岡區",
+    "price": 220,
+    "tags": [
+      "米其林推薦",
+      "在地",
+      "多人聚餐",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街印度菜豆花",
+    "type": "印度菜",
+    "dist": "台南市 安平區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "米其林推薦",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日居酒屋複合式",
+    "type": "居酒屋",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 200,
+    "tags": [
+      "清爽",
+      "素食友善",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌燒肉",
+    "type": "蚵仔煎",
+    "dist": "南投縣 信義鄉",
+    "price": 250,
+    "tags": [
+      "素食友善",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣麵館",
+    "type": "咖哩飯",
+    "dist": "南投縣 草屯鎮",
+    "price": 200,
+    "tags": [
+      "排隊",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中甜點",
+    "type": "小籠包",
+    "dist": "雲林縣 崙背鄉",
+    "price": 150,
+    "tags": [
+      "老字號",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口甜點",
+    "type": "燒肉",
+    "dist": "屏東縣 里港鄉",
+    "price": 280,
+    "tags": [
+      "文青",
+      "深夜",
+      "多人聚餐",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華炸雞",
+    "type": "壽司",
+    "dist": "南投縣 竹山鎮",
+    "price": 80,
+    "tags": [
+      "約會",
+      "宵夜",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂冰品",
+    "type": "泰式",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 280,
+    "tags": [
+      "素食友善",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生披薩",
+    "type": "印度菜",
+    "dist": "新北市 三重區",
+    "price": 210,
+    "tags": [
+      "辣",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名披薩",
+    "type": "居酒屋",
+    "dist": "花蓮縣 富里鄉",
+    "price": 210,
+    "tags": [
+      "多人聚餐",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣海產",
+    "type": "鵝肉",
+    "dist": "高雄市 仁武區",
+    "price": 280,
+    "tags": [
+      "景觀",
+      "隱藏版",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌燒肉",
+    "type": "燒肉",
+    "dist": "彰化縣 員林市",
+    "price": 160,
+    "tags": [
+      "米其林推薦",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王食堂",
+    "type": "義大利麵",
+    "dist": "台東縣 綠島鄉",
+    "price": 160,
+    "tags": [
+      "隱藏版",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味早午餐",
+    "type": "印度菜",
+    "dist": "雲林縣 大埤鄉",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國拉麵",
+    "type": "甜點",
+    "dist": "高雄市 三民區",
+    "price": 250,
+    "tags": [
+      "高級",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名海產",
+    "type": "牛肉麵",
+    "dist": "台北市 中正區",
+    "price": 120,
+    "tags": [
+      "平價",
+      "隱藏版",
+      "外帶",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋咖哩飯麵",
+    "type": "咖哩飯",
+    "dist": "台中市 大里區",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "濃郁",
+      "隱藏版",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野臭豆腐食堂",
+    "type": "臭豆腐",
+    "dist": "嘉義縣 溪口鄉",
+    "price": 280,
+    "tags": [
+      "米其林推薦",
+      "排隊",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街居酒屋海產",
+    "type": "居酒屋",
+    "dist": "新竹縣 新埔鎮",
+    "price": 80,
+    "tags": [
+      "必比登",
+      "景觀",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹豆花牛肉麵",
+    "type": "豆花",
+    "dist": "彰化縣 社頭鄉",
+    "price": 160,
+    "tags": [
+      "多人聚餐",
+      "素食友善",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中火鍋複合式",
+    "type": "火鍋",
+    "dist": "新竹市 北區",
+    "price": 180,
+    "tags": [
+      "約會",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口川菜便當",
+    "type": "川菜",
+    "dist": "高雄市 左營區",
+    "price": 200,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "打卡",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記壽司",
+    "type": "牛肉麵",
+    "dist": "苗栗縣 後龍鎮",
+    "price": 80,
+    "tags": [
+      "老字號",
+      "濃郁",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌居酒屋豆花",
+    "type": "居酒屋",
+    "dist": "南投縣 仁愛鄉",
+    "price": 220,
+    "tags": [
+      "文青",
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野牛排",
+    "type": "壽司",
+    "dist": "新北市 永和區",
+    "price": 210,
+    "tags": [
+      "外帶",
+      "多人聚餐",
+      "辣",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤海產",
+    "type": "燒肉",
+    "dist": "台中市 太平區",
+    "price": 300,
+    "tags": [
+      "多人聚餐",
+      "隱藏版",
+      "清爽",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗港式便當",
+    "type": "港式",
+    "dist": "苗栗縣 南庄鄉",
+    "price": 210,
+    "tags": [
+      "CP值高",
+      "親子",
+      "宵夜",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成拉麵甜點",
+    "type": "拉麵",
+    "dist": "台北市 南港區",
+    "price": 230,
+    "tags": [
+      "平價",
+      "辣",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟拉麵",
+    "type": "排骨飯",
+    "dist": "彰化縣 和美鎮",
+    "price": 230,
+    "tags": [
+      "排隊",
+      "濃郁",
+      "CP值高",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環拉麵",
+    "type": "咖啡",
+    "dist": "彰化縣 彰化市",
+    "price": 80,
+    "tags": [
+      "清爽",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成咖哩飯咖啡",
+    "type": "咖哩飯",
+    "dist": "新北市 深坑區",
+    "price": 230,
+    "tags": [
+      "排隊",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂炸雞",
+    "type": "剉冰",
+    "dist": "台南市 七股區",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "多人聚餐",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋披薩居酒屋",
+    "type": "披薩",
+    "dist": "桃園市 平鎮區",
+    "price": 80,
+    "tags": [
+      "外帶",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日便當",
+    "type": "剉冰",
+    "dist": "新竹縣 五峰鄉",
+    "price": 100,
+    "tags": [
+      "文青",
+      "排隊",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環泰式甜點",
+    "type": "泰式",
+    "dist": "台北市 內湖區",
+    "price": 350,
+    "tags": [
+      "在地",
+      "多人聚餐",
+      "平價",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌港式牛排",
+    "type": "港式",
+    "dist": "新北市 鶯歌區",
+    "price": 120,
+    "tags": [
+      "米其林推薦",
+      "排隊",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環炸雞",
+    "type": "印度菜",
+    "dist": "彰化縣 線西鄉",
+    "price": 380,
+    "tags": [
+      "辣",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹居酒屋食堂",
+    "type": "居酒屋",
+    "dist": "澎湖縣 西嶼鄉",
+    "price": 200,
+    "tags": [
+      "多人聚餐",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國炸雞",
+    "type": "越式",
+    "dist": "台北市 南港區",
+    "price": 150,
+    "tags": [
+      "素食友善",
+      "在地",
+      "宵夜",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂壽司",
+    "type": "甜點",
+    "dist": "雲林縣 斗六市",
+    "price": 300,
+    "tags": [
+      "巷弄",
+      "在地",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日牛肉麵牛排",
+    "type": "牛肉麵",
+    "dist": "彰化縣 田中鎮",
+    "price": 280,
+    "tags": [
+      "巷弄",
+      "外帶",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生甜點",
+    "type": "排骨飯",
+    "dist": "南投縣 埔里鎮",
+    "price": 160,
+    "tags": [
+      "宵夜",
+      "排隊",
+      "高級",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟冰品",
+    "type": "越式",
+    "dist": "金門縣 金沙鎮",
+    "price": 200,
+    "tags": [
+      "清爽",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹燒肉",
+    "type": "炸雞",
+    "dist": "台東縣 關山鎮",
+    "price": 160,
+    "tags": [
+      "外帶",
+      "排隊",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下壽司",
+    "type": "牛肉麵",
+    "dist": "台中市 東區",
+    "price": 200,
+    "tags": [
+      "必比登",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖啡",
+    "type": "剉冰",
+    "dist": "嘉義縣 阿里山鄉",
+    "price": 210,
+    "tags": [
+      "清爽",
+      "老字號",
+      "在地",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口客家菜早午餐",
+    "type": "客家菜",
+    "dist": "嘉義縣 新港鄉",
+    "price": 160,
+    "tags": [
+      "親子",
+      "平價",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口咖啡",
+    "type": "披薩",
+    "dist": "高雄市 橋頭區",
+    "price": 160,
+    "tags": [
+      "老字號",
+      "深夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗火鍋",
+    "type": "海鮮",
+    "dist": "屏東縣 枋寮鄉",
+    "price": 150,
+    "tags": [
+      "文青",
+      "隱藏版",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生牛排",
+    "type": "印度菜",
+    "dist": "雲林縣 土庫鎮",
+    "price": 450,
+    "tags": [
+      "隱藏版",
+      "多人聚餐",
+      "清爽",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹披薩",
+    "type": "居酒屋",
+    "dist": "花蓮縣 瑞穗鄉",
+    "price": 120,
+    "tags": [
+      "隱藏版",
+      "外帶",
+      "排隊",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環火鍋",
+    "type": "泰式",
+    "dist": "雲林縣 崙背鄉",
+    "price": 250,
+    "tags": [
+      "多人聚餐",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋早午餐",
+    "type": "無菜單料理",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 320,
+    "tags": [
+      "深夜",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野麵",
+    "type": "港式",
+    "dist": "宜蘭縣 羅東鎮",
+    "price": 280,
+    "tags": [
+      "平價",
+      "隱藏版",
+      "必比登",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "福記咖啡豆花",
+    "type": "咖啡",
+    "dist": "基隆市 仁愛區",
+    "price": 100,
+    "tags": [
+      "排隊",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中便當",
+    "type": "鵝肉",
+    "dist": "花蓮縣 吉安鄉",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "約會",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華披薩",
+    "type": "咖哩飯",
+    "dist": "連江縣 北竿鄉",
+    "price": 350,
+    "tags": [
+      "清爽",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生複合式",
+    "type": "炸雞",
+    "dist": "彰化縣 田中鎮",
+    "price": 100,
+    "tags": [
+      "宵夜",
+      "平價",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味拉麵",
+    "type": "咖啡",
+    "dist": "高雄市 阿蓮區",
+    "price": 130,
+    "tags": [
+      "多人聚餐",
+      "親子",
+      "在地",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂披薩炸雞",
+    "type": "披薩",
+    "dist": "苗栗縣 銅鑼鄉",
+    "price": 350,
+    "tags": [
+      "米其林推薦",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康披薩甜點",
+    "type": "披薩",
+    "dist": "屏東縣 萬丹鄉",
+    "price": 300,
+    "tags": [
+      "排隊",
+      "文青",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店海產",
+    "type": "手搖飲",
+    "dist": "台南市 新化區",
+    "price": 350,
+    "tags": [
+      "清爽",
+      "排隊",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗滷肉飯食堂",
+    "type": "滷肉飯",
+    "dist": "彰化縣 員林市",
+    "price": 160,
+    "tags": [
+      "隱藏版",
+      "多人聚餐",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口牛排",
+    "type": "客家菜",
+    "dist": "彰化縣 北斗鎮",
+    "price": 350,
+    "tags": [
+      "CP值高",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野壽司",
+    "type": "蚵仔煎",
+    "dist": "台中市 后里區",
+    "price": 80,
+    "tags": [
+      "多人聚餐",
+      "排隊",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗海鮮火鍋",
+    "type": "海鮮",
+    "dist": "苗栗縣 後龍鎮",
+    "price": 120,
+    "tags": [
+      "濃郁",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味早午餐牛排",
+    "type": "早午餐",
+    "dist": "高雄市 美濃區",
+    "price": 100,
+    "tags": [
+      "米其林推薦",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟早午餐",
+    "type": "手搖飲",
+    "dist": "嘉義市 東區",
+    "price": 150,
+    "tags": [
+      "排隊",
+      "辣",
+      "親子",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋牛肉麵",
+    "type": "泰式",
+    "dist": "宜蘭縣 冬山鄉",
+    "price": 210,
+    "tags": [
+      "隱藏版",
+      "外帶",
+      "親子",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成牛肉麵",
+    "type": "牛排",
+    "dist": "台中市 北屯區",
+    "price": 280,
+    "tags": [
+      "文青",
+      "排隊",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日雞肉飯牛肉麵",
+    "type": "雞肉飯",
+    "dist": "高雄市 湖內區",
+    "price": 80,
+    "tags": [
+      "巷弄",
+      "多人聚餐",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街拉麵",
+    "type": "客家菜",
+    "dist": "高雄市 岡山區",
+    "price": 100,
+    "tags": [
+      "辣",
+      "必比登",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街複合式",
+    "type": "泰式",
+    "dist": "新北市 深坑區",
+    "price": 250,
+    "tags": [
+      "文青",
+      "清爽",
+      "隱藏版",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店早午餐",
+    "type": "牛排",
+    "dist": "高雄市 燕巢區",
+    "price": 250,
+    "tags": [
+      "約會",
+      "米其林推薦",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榮華早午餐",
+    "type": "炸雞",
+    "dist": "高雄市 三民區",
+    "price": 320,
+    "tags": [
+      "辣",
+      "素食友善",
+      "排隊",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口海鮮牛肉麵",
+    "type": "海鮮",
+    "dist": "苗栗縣 獅潭鄉",
+    "price": 180,
+    "tags": [
+      "約會",
+      "濃郁",
+      "平價",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "巷口早午餐",
+    "type": "無菜單料理",
+    "dist": "新北市 土城區",
+    "price": 250,
+    "tags": [
+      "米其林推薦",
+      "濃郁",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹無菜單料理拉麵",
+    "type": "無菜單料理",
+    "dist": "宜蘭縣 冬山鄉",
+    "price": 350,
+    "tags": [
+      "米其林推薦",
+      "景觀",
+      "老字號",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成冰品",
+    "type": "川菜",
+    "dist": "彰化縣 伸港鄉",
+    "price": 80,
+    "tags": [
+      "老字號",
+      "約會",
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "正宗牛肉麵",
+    "type": "客家菜",
+    "dist": "雲林縣 褒忠鄉",
+    "price": 320,
+    "tags": [
+      "平價",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣炸雞",
+    "type": "拉麵",
+    "dist": "苗栗縣 西湖鄉",
+    "price": 200,
+    "tags": [
+      "在地",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤豆花居酒屋",
+    "type": "豆花",
+    "dist": "台南市 南區",
+    "price": 120,
+    "tags": [
+      "老字號",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成牛肉麵",
+    "type": "義大利麵",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 180,
+    "tags": [
+      "素食友善",
+      "高級",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣客家菜麵",
+    "type": "客家菜",
+    "dist": "彰化縣 社頭鄉",
+    "price": 280,
+    "tags": [
+      "打卡",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟豆花",
+    "type": "臭豆腐",
+    "dist": "基隆市 中山區",
+    "price": 160,
+    "tags": [
+      "親子",
+      "巷弄",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖啡",
+    "type": "豆花",
+    "dist": "連江縣 東引鄉",
+    "price": 210,
+    "tags": [
+      "多人聚餐",
+      "米其林推薦",
+      "景觀",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌合菜",
+    "type": "甜點",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 120,
+    "tags": [
+      "宵夜",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生海產",
+    "type": "臭豆腐",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 80,
+    "tags": [
+      "濃郁",
+      "打卡",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌披薩",
+    "type": "義大利麵",
+    "dist": "台中市 梧棲區",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國麵",
+    "type": "燒肉",
+    "dist": "宜蘭縣 南澳鄉",
+    "price": 120,
+    "tags": [
+      "老字號",
+      "宵夜",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生小籠包燒肉",
+    "type": "小籠包",
+    "dist": "台南市 七股區",
+    "price": 280,
+    "tags": [
+      "高級",
+      "多人聚餐",
+      "隱藏版",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣便當",
+    "type": "小籠包",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 80,
+    "tags": [
+      "素食友善",
+      "多人聚餐",
+      "打卡",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街印度菜火鍋",
+    "type": "印度菜",
+    "dist": "新北市 石門區",
+    "price": 280,
+    "tags": [
+      "巷弄",
+      "CP值高",
+      "高級",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康複合式",
+    "type": "越式",
+    "dist": "嘉義縣 布袋鎮",
+    "price": 320,
+    "tags": [
+      "親子",
+      "深夜",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味居酒屋",
+    "type": "小籠包",
+    "dist": "台南市 南區",
+    "price": 80,
+    "tags": [
+      "米其林推薦",
+      "文青",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名小吃",
+    "type": "川菜",
+    "dist": "台北市 文山區",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "景觀",
+      "隱藏版",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店火鍋",
+    "type": "燒肉",
+    "dist": "台北市 大安區",
+    "price": 150,
+    "tags": [
+      "素食友善",
+      "濃郁",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野手搖飲披薩",
+    "type": "手搖飲",
+    "dist": "台南市 西港區",
+    "price": 300,
+    "tags": [
+      "宵夜",
+      "老字號",
+      "清爽",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下臭豆腐早午餐",
+    "type": "臭豆腐",
+    "dist": "屏東縣 東港鎮",
+    "price": 280,
+    "tags": [
+      "濃郁",
+      "深夜",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹小籠包早午餐",
+    "type": "小籠包",
+    "dist": "嘉義縣 新港鄉",
+    "price": 130,
+    "tags": [
+      "深夜",
+      "隱藏版",
+      "CP值高",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街牛肉麵",
+    "type": "手搖飲",
+    "dist": "台中市 西區",
+    "price": 300,
+    "tags": [
+      "文青",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌鵝肉居酒屋",
+    "type": "鵝肉",
+    "dist": "雲林縣 四湖鄉",
+    "price": 450,
+    "tags": [
+      "親子",
+      "辣",
+      "巷弄",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國拉麵",
+    "type": "甜點",
+    "dist": "新北市 樹林區",
+    "price": 150,
+    "tags": [
+      "外帶",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國臭豆腐海產",
+    "type": "臭豆腐",
+    "dist": "苗栗縣 頭屋鄉",
+    "price": 120,
+    "tags": [
+      "巷弄",
+      "深夜",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成牛肉麵",
+    "type": "鵝肉",
+    "dist": "屏東縣 高樹鄉",
+    "price": 120,
+    "tags": [
+      "深夜",
+      "CP值高",
+      "高級",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中火鍋麵館",
+    "type": "火鍋",
+    "dist": "彰化縣 溪湖鎮",
+    "price": 160,
+    "tags": [
+      "打卡",
+      "宵夜",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "無名居酒屋",
+    "type": "拉麵",
+    "dist": "彰化縣 埔心鄉",
+    "price": 160,
+    "tags": [
+      "濃郁",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下咖哩飯牛肉麵",
+    "type": "咖哩飯",
+    "dist": "台南市 歸仁區",
+    "price": 180,
+    "tags": [
+      "濃郁",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂排骨飯披薩",
+    "type": "排骨飯",
+    "dist": "嘉義縣 水上鄉",
+    "price": 130,
+    "tags": [
+      "文青",
+      "辣",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街小籠包早午餐",
+    "type": "小籠包",
+    "dist": "屏東縣 東港鎮",
+    "price": 450,
+    "tags": [
+      "老字號",
+      "清爽",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國食堂",
+    "type": "手搖飲",
+    "dist": "新竹市 東區",
+    "price": 80,
+    "tags": [
+      "辣",
+      "隱藏版",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成居酒屋",
+    "type": "咖哩飯",
+    "dist": "新北市 泰山區",
+    "price": 400,
+    "tags": [
+      "老字號",
+      "素食友善",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店居酒屋",
+    "type": "燒肉",
+    "dist": "南投縣 埔里鎮",
+    "price": 230,
+    "tags": [
+      "老字號",
+      "在地",
+      "景觀"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋甜點冰品",
+    "type": "甜點",
+    "dist": "嘉義市 西區",
+    "price": 280,
+    "tags": [
+      "平價",
+      "外帶",
+      "宵夜",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日甜點",
+    "type": "披薩",
+    "dist": "高雄市 永安區",
+    "price": 200,
+    "tags": [
+      "素食友善",
+      "排隊",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國臭豆腐便當",
+    "type": "臭豆腐",
+    "dist": "高雄市 永安區",
+    "price": 180,
+    "tags": [
+      "親子",
+      "CP值高",
+      "高級",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋咖啡",
+    "type": "豆花",
+    "dist": "高雄市 前金區",
+    "price": 230,
+    "tags": [
+      "打卡",
+      "清爽",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌麵館",
+    "type": "手搖飲",
+    "dist": "雲林縣 莿桐鄉",
+    "price": 180,
+    "tags": [
+      "米其林推薦",
+      "素食友善",
+      "老字號",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街冰品",
+    "type": "壽司",
+    "dist": "新北市 深坑區",
+    "price": 80,
+    "tags": [
+      "隱藏版",
+      "多人聚餐",
+      "巷弄",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日咖哩飯牛肉麵",
+    "type": "咖哩飯",
+    "dist": "新北市 新莊區",
+    "price": 100,
+    "tags": [
+      "隱藏版",
+      "辣",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店食堂",
+    "type": "豆花",
+    "dist": "彰化縣 溪州鄉",
+    "price": 80,
+    "tags": [
+      "景觀",
+      "平價",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹複合式",
+    "type": "壽司",
+    "dist": "高雄市 鳥松區",
+    "price": 120,
+    "tags": [
+      "老字號",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店居酒屋",
+    "type": "無菜單料理",
+    "dist": "高雄市 左營區",
+    "price": 280,
+    "tags": [
+      "文青",
+      "排隊",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂排骨飯炸雞",
+    "type": "排骨飯",
+    "dist": "苗栗縣 銅鑼鄉",
+    "price": 180,
+    "tags": [
+      "必比登",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成早午餐",
+    "type": "米糕",
+    "dist": "彰化縣 員林市",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成拉麵居酒屋",
+    "type": "拉麵",
+    "dist": "雲林縣 林內鄉",
+    "price": 120,
+    "tags": [
+      "親子",
+      "多人聚餐",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生居酒屋",
+    "type": "客家菜",
+    "dist": "南投縣 集集鎮",
+    "price": 160,
+    "tags": [
+      "多人聚餐",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌麵館",
+    "type": "居酒屋",
+    "dist": "澎湖縣 望安鄉",
+    "price": 320,
+    "tags": [
+      "排隊",
+      "巷弄",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日豆花",
+    "type": "居酒屋",
+    "dist": "高雄市 大寮區",
+    "price": 250,
+    "tags": [
+      "在地",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤食堂",
+    "type": "小籠包",
+    "dist": "彰化縣 二林鎮",
+    "price": 400,
+    "tags": [
+      "景觀",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日合菜",
+    "type": "義大利麵",
+    "dist": "苗栗縣 頭屋鄉",
+    "price": 130,
+    "tags": [
+      "親子",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日麵館",
+    "type": "居酒屋",
+    "dist": "台中市 大雅區",
+    "price": 230,
+    "tags": [
+      "高級",
+      "宵夜",
+      "素食友善",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街小吃",
+    "type": "印度菜",
+    "dist": "屏東縣 崁頂鄉",
+    "price": 200,
+    "tags": [
+      "巷弄",
+      "親子",
+      "多人聚餐",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野複合式",
+    "type": "手搖飲",
+    "dist": "宜蘭縣 礁溪鄉",
+    "price": 80,
+    "tags": [
+      "清爽",
+      "平價",
+      "約會"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿成咖啡火鍋",
+    "type": "咖啡",
+    "dist": "宜蘭縣 宜蘭市",
+    "price": 250,
+    "tags": [
+      "文青",
+      "清爽",
+      "老字號",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生豆花",
+    "type": "雞肉飯",
+    "dist": "新竹縣 寶山鄉",
+    "price": 220,
+    "tags": [
+      "辣",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "元氣豆花",
+    "type": "早午餐",
+    "dist": "宜蘭縣 壯圍鄉",
+    "price": 280,
+    "tags": [
+      "素食友善",
+      "在地",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環便當",
+    "type": "壽司",
+    "dist": "花蓮縣 玉里鎮",
+    "price": 160,
+    "tags": [
+      "排隊",
+      "宵夜",
+      "濃郁",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味手搖飲居酒屋",
+    "type": "手搖飲",
+    "dist": "桃園市 八德區",
+    "price": 230,
+    "tags": [
+      "景觀",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日居酒屋",
+    "type": "米糕",
+    "dist": "新北市 泰山區",
+    "price": 80,
+    "tags": [
+      "辣",
+      "必比登"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日炸雞",
+    "type": "雞肉飯",
+    "dist": "台東縣 關山鎮",
+    "price": 250,
+    "tags": [
+      "必比登",
+      "約會",
+      "老字號",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂合菜",
+    "type": "火鍋",
+    "dist": "新北市 新莊區",
+    "price": 200,
+    "tags": [
+      "老字號",
+      "米其林推薦",
+      "辣",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹燒肉",
+    "type": "咖哩飯",
+    "dist": "台中市 大肚區",
+    "price": 150,
+    "tags": [
+      "老字號",
+      "在地",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口豆花",
+    "type": "炸雞",
+    "dist": "嘉義縣 太保市",
+    "price": 160,
+    "tags": [
+      "親子",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街義大利麵咖啡",
+    "type": "義大利麵",
+    "dist": "高雄市 新興區",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "隱藏版",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌炸雞牛肉麵",
+    "type": "炸雞",
+    "dist": "台南市 新化區",
+    "price": 220,
+    "tags": [
+      "老字號",
+      "文青",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟食堂",
+    "type": "剉冰",
+    "dist": "嘉義縣 民雄鄉",
+    "price": 160,
+    "tags": [
+      "文青",
+      "老字號",
+      "辣",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小野燒肉",
+    "type": "早午餐",
+    "dist": "新竹縣 湖口鄉",
+    "price": 150,
+    "tags": [
+      "CP值高",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店居酒屋",
+    "type": "拉麵",
+    "dist": "高雄市 鼓山區",
+    "price": 80,
+    "tags": [
+      "多人聚餐",
+      "清爽",
+      "辣",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "永康小吃",
+    "type": "印度菜",
+    "dist": "台南市 新市區",
+    "price": 380,
+    "tags": [
+      "高級",
+      "平價"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟複合式",
+    "type": "壽司",
+    "dist": "高雄市 三民區",
+    "price": 130,
+    "tags": [
+      "宵夜",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌牛排",
+    "type": "牛排",
+    "dist": "台中市 潭子區",
+    "price": 200,
+    "tags": [
+      "深夜",
+      "排隊"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中牛排",
+    "type": "居酒屋",
+    "dist": "嘉義市 西區",
+    "price": 130,
+    "tags": [
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹牛排牛肉麵",
+    "type": "牛排",
+    "dist": "新竹縣 竹東鎮",
+    "price": 280,
+    "tags": [
+      "老字號",
+      "隱藏版",
+      "清爽",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌海鮮披薩",
+    "type": "海鮮",
+    "dist": "雲林縣 土庫鎮",
+    "price": 130,
+    "tags": [
+      "外帶",
+      "必比登",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國麵",
+    "type": "牛肉麵",
+    "dist": "台中市 梧棲區",
+    "price": 80,
+    "tags": [
+      "多人聚餐",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中拉麵",
+    "type": "牛肉麵",
+    "dist": "桃園市 蘆竹區",
+    "price": 150,
+    "tags": [
+      "巷弄",
+      "米其林推薦",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口早午餐",
+    "type": "越式",
+    "dist": "桃園市 龍潭區",
+    "price": 180,
+    "tags": [
+      "平價",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生居酒屋",
+    "type": "臭豆腐",
+    "dist": "台南市 麻豆區",
+    "price": 220,
+    "tags": [
+      "濃郁",
+      "辣",
+      "約會",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館拉麵",
+    "type": "牛肉麵",
+    "dist": "南投縣 鹿谷鄉",
+    "price": 180,
+    "tags": [
+      "巷弄",
+      "高級",
+      "多人聚餐"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中麵館",
+    "type": "客家菜",
+    "dist": "宜蘭縣 礁溪鄉",
+    "price": 280,
+    "tags": [
+      "親子",
+      "約會",
+      "隱藏版",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂海產",
+    "type": "小籠包",
+    "dist": "台南市 鹽水區",
+    "price": 180,
+    "tags": [
+      "巷弄",
+      "CP值高",
+      "多人聚餐",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生食堂",
+    "type": "剉冰",
+    "dist": "嘉義縣 大埔鄉",
+    "price": 280,
+    "tags": [
+      "平價",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹川菜便當",
+    "type": "川菜",
+    "dist": "雲林縣 土庫鎮",
+    "price": 120,
+    "tags": [
+      "清爽",
+      "濃郁",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹燒肉",
+    "type": "雞肉飯",
+    "dist": "南投縣 水里鄉",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國便當",
+    "type": "川菜",
+    "dist": "台南市 安南區",
+    "price": 350,
+    "tags": [
+      "文青",
+      "外帶",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日甜點壽司",
+    "type": "甜點",
+    "dist": "新竹縣 新埔鎮",
+    "price": 160,
+    "tags": [
+      "打卡",
+      "外帶",
+      "辣",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街居酒屋",
+    "type": "拉麵",
+    "dist": "新北市 五股區",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "CP值高",
+      "老字號",
+      "素食友善"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口拉麵",
+    "type": "牛排",
+    "dist": "苗栗縣 三義鄉",
+    "price": 230,
+    "tags": [
+      "濃郁",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤甜點",
+    "type": "披薩",
+    "dist": "台南市 七股區",
+    "price": 120,
+    "tags": [
+      "米其林推薦",
+      "高級",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤蚵仔煎合菜",
+    "type": "蚵仔煎",
+    "dist": "屏東縣 林邊鄉",
+    "price": 220,
+    "tags": [
+      "景觀",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "食堂炸雞",
+    "type": "牛排",
+    "dist": "高雄市 橋頭區",
+    "price": 180,
+    "tags": [
+      "深夜",
+      "文青",
+      "隱藏版",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大飯店披薩牛肉麵",
+    "type": "披薩",
+    "dist": "台南市 新營區",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "必比登",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂牛肉麵",
+    "type": "泰式",
+    "dist": "屏東縣 潮州鎮",
+    "price": 120,
+    "tags": [
+      "外帶",
+      "CP值高",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤咖啡",
+    "type": "咖啡",
+    "dist": "高雄市 大寮區",
+    "price": 120,
+    "tags": [
+      "必比登",
+      "隱藏版",
+      "約會",
+      "宵夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "山口早午餐",
+    "type": "壽司",
+    "dist": "新北市 林口區",
+    "price": 180,
+    "tags": [
+      "濃郁",
+      "CP值高",
+      "文青",
+      "打卡"
+    ],
+    "selected": false
+  },
+  {
+    "name": "木屋披薩",
+    "type": "居酒屋",
+    "dist": "新竹縣 芎林鄉",
+    "price": 160,
+    "tags": [
+      "CP值高",
+      "高級"
+    ],
+    "selected": false
+  },
+  {
+    "name": "老牌海產",
+    "type": "燒肉",
+    "dist": "宜蘭縣 蘇澳鎮",
+    "price": 80,
+    "tags": [
+      "CP值高",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "佳味冰品",
+    "type": "牛排",
+    "dist": "高雄市 前鎮區",
+    "price": 230,
+    "tags": [
+      "文青",
+      "排隊",
+      "素食友善",
+      "巷弄"
+    ],
+    "selected": false
+  },
+  {
+    "name": "田中食堂",
+    "type": "拉麵",
+    "dist": "嘉義市 東區",
+    "price": 200,
+    "tags": [
+      "素食友善",
+      "宵夜",
+      "巷弄",
+      "外帶"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿堂披薩",
+    "type": "剉冰",
+    "dist": "雲林縣 西螺鎮",
+    "price": 250,
+    "tags": [
+      "深夜",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "阿嬤披薩",
+    "type": "滷肉飯",
+    "dist": "花蓮縣 玉里鎮",
+    "price": 250,
+    "tags": [
+      "清爽",
+      "在地"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環咖啡火鍋",
+    "type": "咖啡",
+    "dist": "高雄市 苓雅區",
+    "price": 150,
+    "tags": [
+      "文青",
+      "隱藏版"
+    ],
+    "selected": false
+  },
+  {
+    "name": "大樹海產",
+    "type": "海鮮",
+    "dist": "新北市 林口區",
+    "price": 300,
+    "tags": [
+      "清爽",
+      "宵夜",
+      "必比登",
+      "文青"
+    ],
+    "selected": false
+  },
+  {
+    "name": "一條街小籠包麵",
+    "type": "小籠包",
+    "dist": "屏東縣 新園鄉",
+    "price": 210,
+    "tags": [
+      "在地",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "朝日披薩",
+    "type": "早午餐",
+    "dist": "高雄市 前鎮區",
+    "price": 220,
+    "tags": [
+      "素食友善",
+      "平價",
+      "辣"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小館披薩",
+    "type": "燒肉",
+    "dist": "花蓮縣 富里鄉",
+    "price": 80,
+    "tags": [
+      "深夜",
+      "CP值高"
+    ],
+    "selected": false
+  },
+  {
+    "name": "圓環居酒屋",
+    "type": "排骨飯",
+    "dist": "高雄市 永安區",
+    "price": 210,
+    "tags": [
+      "隱藏版",
+      "老字號"
+    ],
+    "selected": false
+  },
+  {
+    "name": "小王早午餐",
+    "type": "小籠包",
+    "dist": "新竹縣 五峰鄉",
+    "price": 130,
+    "tags": [
+      "在地",
+      "巷弄",
+      "辣",
+      "深夜"
+    ],
+    "selected": false
+  },
+  {
+    "name": "三兄弟炸雞",
+    "type": "火鍋",
+    "dist": "嘉義市 東區",
+    "price": 250,
+    "tags": [
+      "宵夜",
+      "親子"
+    ],
+    "selected": false
+  },
+  {
+    "name": "建國早午餐",
+    "type": "咖哩飯",
+    "dist": "台東縣 鹿野鄉",
+    "price": 320,
+    "tags": [
+      "CP值高",
+      "排隊",
+      "景觀",
+      "米其林推薦"
+    ],
+    "selected": false
+  },
+  {
+    "name": "榕樹下火鍋",
+    "type": "燒肉",
+    "dist": "台北市 士林區",
+    "price": 220,
+    "tags": [
+      "宵夜",
+      "清爽"
+    ],
+    "selected": false
+  },
+  {
+    "name": "新生早午餐小吃",
+    "type": "早午餐",
+    "dist": "屏東縣 內埔鄉",
+    "price": 160,
+    "tags": [
+      "必比登",
+      "濃郁"
+    ],
+    "selected": false
+  },
+  {
+    "name": "春日拉麵",
+    "type": "牛肉麵",
+    "dist": "苗栗縣 造橋鄉",
+    "price": 150,
+    "tags": [
+      "在地",
+      "深夜",
+      "米其林推薦",
+      "打卡"
+    ],
+    "selected": false
+  }
+]

@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>美食入口首頁</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;800&display=swap" rel="stylesheet">
+  <script src="../jQuery/_js/jquery-3.7.1.js"></script>
+  <style>
+    :root {
+      --bg: #0b1230;
+      --card: #151a38;
+      --ink: #eaf0ff;
+      --muted: #bcd5ff;
+      --line: #2a3460;
+      --brand: #2a6aff;
+      --brand-2: #67b7ff;
+    }
+
+    * { box-sizing: border-box }
+    html, body { height: 100% }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(1200px 600px at 10% -10%, rgba(103,183,255,.18), transparent 60%),
+        radial-gradient(1200px 600px at 110% 0%, rgba(42,106,255,.16), transparent 60%),
+        var(--bg);
+    }
+
+    a { color: inherit; text-decoration: none }
+
+    /* ===== Nav ===== */
+    .nav {
+      position: sticky; top: 0; z-index: 30;
+      backdrop-filter: saturate(140%) blur(10px);
+      background: rgba(10, 16, 45, .68);
+      border-bottom: 1px solid rgba(124,196,255,.12);
+    }
+    .nav-wrap {
+      max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 12px;
+      padding: 12px 16px;
+    }
+    .logo { font-weight: 800; letter-spacing:.5px }
+    .nav-gap { flex: 1 }
+    .nav a, .nav button {
+      padding: 8px 12px; border: 1px solid var(--line); background: #0e1634; color: #cfe2ff;
+      border-radius: 12px; cursor: pointer
+    }
+    .nav a:hover, .nav button:hover { border-color: var(--brand-2) }
+    .nav .brand { background: var(--brand); color: #fff }
+
+    /* ===== Hero / Carousel ===== */
+    .hero {
+      position: relative; max-width: 1200px; margin: 20px auto; border-radius: 18px; overflow: hidden;
+      box-shadow: 0 24px 60px rgba(0,0,0,.45), 0 0 0 1px rgba(124,196,255,.14) inset;
+    }
+    .slides { position: relative; height: min(62vh, 560px) }
+    .slide { position: absolute; inset: 0; opacity: 0; transition: opacity .8s ease }
+    .slide.active { opacity: 1 }
+    .slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .hero-dots { position: absolute; left: 0; right: 0; bottom: 12px; display: flex; gap: 6px; justify-content: center }
+    .dot { width: 10px; height: 10px; border-radius: 999px; background: rgba(255,255,255,.45); cursor: pointer; border: 1px solid rgba(0,0,0,.3) }
+    .dot.on { background: #fff }
+    .hero-ctrl { position: absolute; inset: 0; display: flex; justify-content: space-between; align-items: center; pointer-events: none }
+    .hero-btn { pointer-events: auto; width: 42px; height: 42px; border-radius: 12px; display: grid; place-items: center; border: 1px solid var(--line); background: rgba(14,22,52,.72); color: #fff; margin: 0 10px; cursor: pointer }
+
+    /* ===== Sections ===== */
+    .sec { max-width: 1200px; margin: 50px auto; padding: 0 16px }
+    .sec h2 { margin: 0 0 14px; font-size: 26px }
+    .muted { color: var(--muted) }
+
+    /* news cards */
+    .news {
+      display: grid; gap: 12px; grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .news .card {
+      background: var(--card); border-radius: 16px; padding: 12px; display: grid; gap: 10px;
+      border: 1px solid rgba(124,196,255,.12);
+    }
+    .news .thumb { width: 100%; aspect-ratio: 16/9; border-radius: 12px; object-fit: cover }
+    .news .ttl { font-weight: 700; line-height: 1.3 }
+    .news .meta { font-size: 12px; color: var(--muted) }
+    .news .more { justify-self: start; padding: 6px 10px; border: 1px solid var(--line); border-radius: 10px; background: #0e1634; color: #cfe2ff }
+
+    /* About */
+    .about { display: grid; grid-template-columns: 1.1fr 1fr; gap: 16px }
+    .about .box { background: var(--card); border: 1px solid rgba(124,196,255,.12); border-radius: 16px; padding: 16px }
+
+    /* Footer */
+    footer { border-top: 1px solid rgba(124,196,255,.12); padding: 18px 16px; text-align: center; color: var(--muted) }
+
+    /* Dialog (Login & Contact) */
+    dialog { border: none; border-radius: 16px; padding: 0; width: 92%; max-width: 460px; background: #0f1533; color: var(--ink); box-shadow: 0 20px 60px rgba(0,0,0,.5) }
+    .dlg-hd { display: flex; justify-content: space-between; align-items: center; padding: 14px 16px; border-bottom: 1px solid #223 }
+    .dlg-bd { padding: 14px 16px; display: grid; gap: 10px }
+    .dlg-row { display: grid; grid-template-columns: 100px 1fr; gap: 10px; align-items: center }
+    .dlg-row input, .dlg-row textarea { padding: 10px; border-radius: 10px; border: 1px solid #2a345f; background: #121735; color: #fff }
+    .dlg-ft { display: flex; justify-content: flex-end; gap: 8px; padding: 12px 16px; border-top: 1px solid #223 }
+    .btn { padding: 9px 12px; border-radius: 12px; border: 1px solid var(--line); background: #0e1634; color: #cfe2ff; cursor: pointer }
+    .btn.brand { background: var(--brand); color: #fff }
+
+    /* Responsive */
+    @media (max-width: 960px){ .news { grid-template-columns: repeat(2, 1fr) } .about { grid-template-columns: 1fr } }
+    @media (max-width: 560px){ .news { grid-template-columns: 1fr } }
+  </style>
+</head>
+
+<body>
+  <!-- ===== 最上排(導覽列) ===== -->
+  <div class="nav">
+    <div class="nav-wrap">
+      <div class="logo">🍜 美食圖鑑</div>
+      <div class="nav-gap"></div>
+      <a class="brand" href="./MyFoodDairy.html" title="前往美食圖鑑">我的圖鑑</a>
+      <a href="#news">美食新聞</a>
+      <button id="btnLogin">會員登入</button>
+      <button id="btnContact">聯絡我們</button>
+    </div>
+  </div>
+
+  <!-- ===== HERO / CAROUSEL ===== -->
+  <section class="hero" aria-label="美食輪播">
+    <div class="slides" id="slides">
+      <div class="slide active"><img src="./圖片檔案區/拉麵.jpeg" alt="招牌拉麵特寫"></div>
+      <div class="slide"><img src="./圖片檔案區/牛排.jpg" alt="鐵板牛排煙霧"></div>
+      <div class="slide"><img src="./圖片檔案區/火鍋.jpg" alt="火鍋拼盤"></div>
+    </div>
+    <div class="hero-ctrl">
+      <button class="hero-btn" id="btnPrev" aria-label="上一張">◀</button>
+      <button class="hero-btn" id="btnNext" aria-label="下一張">▶</button>
+    </div>
+    <div class="hero-dots" id="dots"></div>
+  </section>
+
+  <!-- ===== 新聞 ===== -->
+  <section class="sec" id="news">
+    <h2>美食新聞</h2>
+    <div class="muted" style="margin-bottom:10px">今日美食新聞</div>
+    <div class="news" id="newsDeck">
+      <!-- 三張新聞版塊 -->
+      <article class="card">
+        <img class="thumb" src="./圖片檔案區/2025米其林.avif" alt="米其林指南發布">
+        <div class="ttl">2025 台灣米其林：在地小吃竄升，新入選 12 家</div>
+        <div class="meta">米其林指南</div>
+        <a class="more" href="https://guide.michelin.com/tw/zh_TW/article/michelin-guide-ceremony/taiwan-full-list" target="_blank" rel="noopener">閱讀</a>
+      </article>
+      <article class="card">
+        <img class="thumb" src="./圖片檔案區/夜市圖.webp" alt="夜市美食">
+        <div class="ttl">全台夜市票選前十：鹽酥雞、滷味、粉圓冰奪前三</div>
+        <div class="meta">最近話題</div>
+        <a class="more" href="https://www.businessweekly.com.tw/style/blog/3000491" target="_blank" rel="noopener">閱讀</a>
+      </article>
+      <article class="card">
+        <img class="thumb" src="./圖片檔案區/吃到飽.webp" alt="台中吃到飽">
+        <div class="ttl">FUNTIME!台中吃到飽指南</div>
+        <div class="meta">台中吃到飽</div>
+        <a class="more" href="https://www.funtime.com.tw/blog/funtime/all-you-can-eat-in-taichung" target="_blank" rel="noopener">閱讀</a>
+      </article>
+    </div>
+  </section>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="sec" id="about">
+    <h2>網站介紹</h2>
+    <div class="about">
+      <div class="box">
+        <h3 style="margin:0 0 8px">關於美食圖鑑</h3>
+        <p class="muted">收藏你走過的每一口好味道：以卡片方式整理店名、餐點類型、均價、地區與 #特色。支援搜尋、城市篩選、標籤管理與抽卡決定今晚吃什麼。</p>
+        <p class="muted">前往「我的圖鑑」開始探索吧！</p>
+      </div>
+      <div class="box">
+        <h3 style="margin:0 0 8px">怎麼使用？</h3>
+        <ul class="muted" style="margin:0 0 0 18px">
+          <li>點擊上方導覽列</li>
+          <li>"我的圖鑑"內可存新圖鑑，也可按載入最新圖鑑直接載入</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    © <span id="y"></span> 美食圖鑑
+  </footer>
+
+  <!-- ===== LOGIN DIALOG ===== -->
+  <dialog id="dlgLogin">
+    <div class="dlg-hd"><b>會員登入</b><button class="btn" data-x>×</button></div>
+    <div class="dlg-bd">
+      <div class="dlg-row"><label>電子郵件</label><input id="lgMail" type="email" placeholder="your@email.com"></div>
+      <div class="dlg-row"><label>密碼</label><input id="lgPwd" type="password" placeholder="請輸入密碼"></div>
+    </div>
+    <div class="dlg-ft">
+      <button class="btn" data-x>取消</button>
+      <button class="btn brand" id="lgOk">登入</button>
+    </div>
+  </dialog>
+
+  <!-- ===== CONTACT DIALOG ===== -->
+  <dialog id="dlgContact">
+    <div class="dlg-hd"><b>聯絡我們</b><button class="btn" data-x>×</button></div>
+    <div class="dlg-bd">
+      <div class="dlg-row"><label>你的名字</label><input id="ctName" placeholder="王小明"></div>
+      <div class="dlg-row"><label>你的 Email</label><input id="ctMail" type="email" placeholder="your@email.com"></div>
+      <div class="dlg-row"><label>主旨</label><input id="ctSubj" placeholder="想合作/建議/錯誤回報…"></div>
+      <div class="dlg-row" style="grid-template-columns: 100px 1fr">
+        <label>內容</label>
+        <textarea id="ctMsg" rows="6" placeholder="寫下你的訊息…"></textarea>
+      </div>
+    </div>
+    <div class="dlg-ft">
+      <button class="btn" data-x>取消</button>
+      <button class="btn brand" id="ctSend">寄出</button>
+    </div>
+  </dialog>
+
+  <script>
+    // ===== Footer Year =====
+    document.getElementById('y').textContent = new Date().getFullYear();
+
+    // ===== Carousel =====
+    let cat = 0; // index
+    let dog = null; // timer
+    const cow = Array.from(document.querySelectorAll('.slide'));
+    const fox = document.getElementById('dots');
+
+    function makeDots() {
+      fox.innerHTML = cow.map((_, i) => `<span class="dot${i===0 ? ' on':''}" data-i="${i}"></span>`).join('');
+      fox.addEventListener('click', e => {
+        let a = e.target;
+        if (!a.classList.contains('dot')) return;
+        let i = +a.dataset.i; show(i);
+      });
+    }
+    function show(i){
+      cow[cat].classList.remove('active');
+      fox.children[cat].classList.remove('on');
+      cat = (i + cow.length) % cow.length;
+      cow[cat].classList.add('active');
+      fox.children[cat].classList.add('on');
+    }
+    function next(){ show(cat + 1) }
+    function prev(){ show(cat - 1) }
+    function auto(){ clearInterval(dog); dog = setInterval(next, 5000) }
+
+    document.getElementById('btnNext').onclick = () => { next(); auto() };
+    document.getElementById('btnPrev').onclick = () => { prev(); auto() };
+    makeDots(); auto();
+
+    // ===== 登入頁面 =====
+    const bee = document.getElementById('dlgLogin');
+    const ant = document.getElementById('btnLogin');
+    ant.onclick = () => bee.showModal();
+    bee.addEventListener('click', e => { if (e.target.dataset.x !== undefined) bee.close() });
+    document.getElementById('lgOk').onclick = () => {
+      let mail = document.getElementById('lgMail').value.trim();
+      let pwd = document.getElementById('lgPwd').value.trim();
+      if (!mail || !pwd){ alert('請輸入帳號與密碼（示意登入）'); return }
+      localStorage.setItem('site_user', JSON.stringify({ mail }));
+      alert('登入成功');
+      bee.close();
+      paintUser();
+    };
+
+    function paintUser(){
+      let raw = localStorage.getItem('site_user');
+      let user = raw ? JSON.parse(raw) : null;
+      let bar = document.querySelector('.nav-wrap');
+      let old = document.getElementById('who'); if (old) old.remove();
+      if (user){
+        let span = document.createElement('span');
+        span.id = 'who'; 
+        span.className = 'muted';
+        span.style.marginLeft = '6px';
+        span.textContent = 'Hi, ' + (user.mail.split('@')[0]);
+        bar.insertBefore(span, bar.children[1]);
+      }
+    }
+    paintUser();
+
+    // ===== Contact Dialog =====
+    const owl = document.getElementById('dlgContact');
+    document.getElementById('btnContact').onclick = () => owl.showModal();
+    owl.addEventListener('click', e => { if (e.target.dataset.x !== undefined) owl.close() });
+
+    document.getElementById('ctSend').onclick = () => {
+      let name = document.getElementById('ctName').value.trim();
+      let mail = document.getElementById('ctMail').value.trim();
+      let subj = document.getElementById('ctSubj').value.trim();
+      let msg  = document.getElementById('ctMsg').value.trim();
+      if (!name || !mail || !subj || !msg){ alert('請完整填寫'); return }
+      let body = encodeURIComponent(`來自：${name} <${mail}>\n\n${msg}`);
+      let href = `mailto:${encodeURIComponent('danny00182003@icloud.com')}?subject=${encodeURIComponent('[美食入口] ' + subj)}&body=${body}`;
+      window.location.href = href; // 以 mailto 寄出
+      owl.close();
+    };
+  </script>
+</body>
+</html>
